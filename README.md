@@ -1405,7 +1405,7 @@
 
 
 <details>
-<summary><strong>eng</strong> (34 submissions)</summary>
+<summary><strong>eng</strong> (35 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1444,6 +1444,8 @@
 | 32 | oluwasegun | 0.3402 |
 | 33 | teagrjohnson | 0.3322 |
 | 34 | ahoblitz | 0.3256 |
+| 35 | wangkongqiang | 0.2603 |
+
 
 
 </details>
@@ -2172,7 +2174,7 @@
 
 
 <details>
-<summary><strong>eng</strong> (23 submissions)</summary>
+<summary><strong>eng</strong> (24 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2198,8 +2200,9 @@
 | 19 | oluwasegun | 0.4149 |
 | 20 | rnnandi | 0.3943 |
 | 21 | dominikmacko | 0.3697 |
-| 22 | saikartheek | 0.2127 |
-| 23 | ahoblitz | 0.2002 |
+| 22 | wangkongqiang | 0.2766 |
+| 23 | saikartheek | 0.2127 |
+| 24 | ahoblitz | 0.2002 |
 
 
 </details>
