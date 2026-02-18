@@ -32,9 +32,8 @@
 ## Subtask 1
 ### Language-specific leaderboards
 
-
 <details>
-<summary><strong>amh</strong> (41 submissions)</summary>
+<summary><strong>amh</strong> (42 submissions)</summary>
 
 
 | rank | Username | score |
@@ -73,20 +72,21 @@
 | 32 | samah-daniyal | 0.7495 |
 | 33 | rnnandi | 0.7296 |
 | 34 | taien | 0.7217 |
-| 35 | yunkuang0329 | 0.6891 |
-| 36 | maggam | 0.6811 |
-| 37 | suuii | 0.6810 |
-| 38 | dominikmacko | 0.6619 |
-| 39 | samanj | 0.6580 |
-| 40 | ahoblitz | 0.5736 |
-| 41 | polarizedteam | 0.4423 |
+| 35 | hidetsune | 0.7182 |
+| 36 | yunkuang0329 | 0.6891 |
+| 37 | maggam | 0.6811 |
+| 38 | suuii | 0.6810 |
+| 39 | dominikmacko | 0.6619 |
+| 40 | samanj | 0.6580 |
+| 41 | ahoblitz | 0.5736 |
+| 42 | polarizedteam | 0.4423 |
 
 
 </details>
 
 
 <details>
-<summary><strong>arb</strong> (44 submissions)</summary>
+<summary><strong>arb</strong> (45 submissions)</summary>
 
 
 | rank | Username | score |
@@ -123,25 +123,26 @@
 | 30 | boon_ | 0.8183 |
 | 31 | giobigpt | 0.8181 |
 | 32 | sandeepkumar13 | 0.8171 |
-| 33 | databees | 0.8139 |
-| 34 | samah-daniyal | 0.8062 |
-| 35 | arampageos | 0.8019 |
-| 36 | vorsanigo | 0.7986 |
-| 37 | namdang_2006 | 0.7969 |
-| 38 | rnnandi | 0.7968 |
-| 39 | aatman | 0.7928 |
-| 40 | samanj | 0.7699 |
-| 41 | pskadasi | 0.7690 |
-| 42 | maggam | 0.6863 |
-| 43 | polarizedteam | 0.6697 |
-| 44 | ahoblitz | 0.5651 |
+| 33 | hidetsune | 0.8160 |
+| 34 | databees | 0.8139 |
+| 35 | samah-daniyal | 0.8062 |
+| 36 | arampageos | 0.8019 |
+| 37 | vorsanigo | 0.7986 |
+| 38 | namdang_2006 | 0.7969 |
+| 39 | rnnandi | 0.7968 |
+| 40 | aatman | 0.7928 |
+| 41 | samanj | 0.7699 |
+| 42 | pskadasi | 0.7690 |
+| 43 | maggam | 0.6863 |
+| 44 | polarizedteam | 0.6697 |
+| 45 | ahoblitz | 0.5651 |
 
 
 </details>
 
 
 <details>
-<summary><strong>ben</strong> (48 submissions)</summary>
+<summary><strong>ben</strong> (49 submissions)</summary>
 
 
 | rank | Username | score |
@@ -188,19 +189,20 @@
 | 40 | julio_fuganti | 0.8195 |
 | 41 | vinaybabu | 0.8184 |
 | 42 | suuii | 0.8119 |
-| 43 | pskadasi | 0.7925 |
-| 44 | rnnandi | 0.7783 |
-| 45 | samanj | 0.7594 |
-| 46 | maggam | 0.7099 |
-| 47 | ahoblitz | 0.6959 |
-| 48 | polarizedteam | 0.6796 |
+| 43 | hidetsune | 0.8053 |
+| 44 | pskadasi | 0.7925 |
+| 45 | rnnandi | 0.7783 |
+| 46 | samanj | 0.7594 |
+| 47 | maggam | 0.7099 |
+| 48 | ahoblitz | 0.6959 |
+| 49 | polarizedteam | 0.6796 |
 
 
 </details>
 
 
 <details>
-<summary><strong>deu</strong> (44 submissions)</summary>
+<summary><strong>deu</strong> (45 submissions)</summary>
 
 
 | rank | Username | score |
@@ -246,16 +248,17 @@
 | 39 | rnnandi | 0.6882 |
 | 40 | vorsanigo | 0.6745 |
 | 41 | databees | 0.6702 |
-| 42 | maggam | 0.6650 |
-| 43 | ahoblitz | 0.6157 |
-| 44 | polarizedteam | 0.3624 |
+| 42 | hidetsune | 0.6693 |
+| 43 | maggam | 0.6650 |
+| 44 | ahoblitz | 0.6157 |
+| 45 | polarizedteam | 0.3624 |
 
 
 </details>
 
 
 <details>
-<summary><strong>eng</strong> (58 submissions)</summary>
+<summary><strong>eng</strong> (60 submissions)</summary>
 
 
 | rank | Username | score |
@@ -281,159 +284,163 @@
 | 19 | wz0101 | 0.7968 |
 | 20 | maziarkiani | 0.7958 |
 | 21 | giobigpt | 0.7943 |
-| 22 | abdullah_415 | 0.7913 |
-| 23 | skray | 0.7913 |
-| 24 | aatman | 0.7905 |
-| 25 | aarondard | 0.7901 |
-| 26 | teodori | 0.7892 |
-| 27 | julio_fuganti | 0.7875 |
-| 28 | jarvis_chen | 0.7874 |
-| 29 | milad | 0.7872 |
-| 30 | irinapatularu | 0.7867 |
-| 31 | shivam_cse | 0.7862 |
-| 32 | saikartheek | 0.7860 |
-| 33 | amatk | 0.7857 |
-| 34 | pfr812 | 0.7854 |
-| 35 | taien | 0.7853 |
-| 36 | joshualee2 | 0.7846 |
-| 37 | atkid123 | 0.7845 |
-| 38 | flowin2025 | 0.7845 |
-| 39 | trantranuit | 0.7845 |
-| 40 | mzs0193 | 0.7832 |
-| 41 | sharmilaupa | 0.7824 |
-| 42 | hydrophyte | 0.7806 |
-| 43 | wangkongqiang | 0.7805 |
-| 44 | namdang_2006 | 0.7803 |
-| 45 | samah-daniyal | 0.7743 |
-| 46 | ashraf_cou | 0.7729 |
-| 47 | teagrjohnson | 0.7724 |
-| 48 | arampageos | 0.7708 |
-| 49 | samanj | 0.7704 |
-| 50 | declan-booth | 0.7681 |
-| 51 | atharva7-g | 0.7664 |
-| 52 | knix123 | 0.7652 |
-| 53 | rnnandi | 0.7645 |
-| 54 | polarizedteam | 0.7458 |
-| 55 | maggam | 0.7084 |
-| 56 | oluwasegun | 0.6928 |
-| 57 | zhangpeng | 0.6882 |
-| 58 | ahoblitz | 0.6449 |
+| 22 | nlp_cimat | 0.7939 |
+| 23 | abdullah_415 | 0.7913 |
+| 24 | skray | 0.7913 |
+| 25 | aatman | 0.7905 |
+| 26 | aarondard | 0.7901 |
+| 27 | teodori | 0.7892 |
+| 28 | julio_fuganti | 0.7875 |
+| 29 | jarvis_chen | 0.7874 |
+| 30 | milad | 0.7872 |
+| 31 | irinapatularu | 0.7867 |
+| 32 | shivam_cse | 0.7862 |
+| 33 | saikartheek | 0.7860 |
+| 34 | amatk | 0.7857 |
+| 35 | pfr812 | 0.7854 |
+| 36 | taien | 0.7853 |
+| 37 | joshualee2 | 0.7846 |
+| 38 | atkid123 | 0.7845 |
+| 39 | flowin2025 | 0.7845 |
+| 40 | trantranuit | 0.7845 |
+| 41 | mzs0193 | 0.7832 |
+| 42 | sharmilaupa | 0.7824 |
+| 43 | hydrophyte | 0.7806 |
+| 44 | wangkongqiang | 0.7805 |
+| 45 | namdang_2006 | 0.7803 |
+| 46 | samah-daniyal | 0.7743 |
+| 47 | ashraf_cou | 0.7729 |
+| 48 | teagrjohnson | 0.7724 |
+| 49 | arampageos | 0.7708 |
+| 50 | samanj | 0.7704 |
+| 51 | declan-booth | 0.7681 |
+| 52 | atharva7-g | 0.7664 |
+| 53 | knix123 | 0.7652 |
+| 54 | rnnandi | 0.7645 |
+| 55 | hidetsune | 0.7636 |
+| 56 | polarizedteam | 0.7458 |
+| 57 | maggam | 0.7084 |
+| 58 | oluwasegun | 0.6928 |
+| 59 | zhangpeng | 0.6882 |
+| 60 | ahoblitz | 0.6449 |
 
 
 </details>
 
 
 <details>
-<summary><strong>fas</strong> (43 submissions)</summary>
+<summary><strong>fas</strong> (44 submissions)</summary>
 
 
 | rank | Username | score |
 |---|---|---|
-| 1 | taien | 0.8314 |
-| 2 | maziarkiani | 0.8308 |
-| 3 | srikarkashyap | 0.8279 |
-| 4 | wz0101 | 0.8211 |
-| 5 | sujal007 | 0.8172 |
-| 6 | saeedehd | 0.8162 |
-| 7 | aatman | 0.8139 |
-| 8 | milad | 0.8137 |
-| 9 | hydrophyte | 0.8136 |
-| 10 | sandeepkumar13 | 0.8133 |
-| 11 | vorsanigo | 0.8128 |
-| 12 | samah-daniyal | 0.8107 |
-| 13 | giobigpt | 0.8105 |
-| 14 | stefana | 0.8102 |
-| 15 | suuii | 0.8088 |
-| 16 | rnnandi | 0.8068 |
-| 17 | irinapatularu | 0.8060 |
-| 18 | howard | 0.8058 |
-| 19 | boon_ | 0.8054 |
-| 20 | adamovita | 0.8049 |
-| 21 | atkid123 | 0.8049 |
-| 22 | flowin2025 | 0.8049 |
-| 23 | trantranuit | 0.8049 |
-| 24 | priyanshumittal | 0.8034 |
-| 25 | pfr812 | 0.8023 |
-| 26 | namdang_2006 | 0.8016 |
-| 27 | julio_fuganti | 0.8005 |
-| 28 | joshualee2 | 0.7998 |
-| 29 | teodori | 0.7980 |
-| 30 | samanj | 0.7898 |
-| 31 | sharmilaupa | 0.7889 |
-| 32 | amatk | 0.7883 |
-| 33 | arampageos | 0.7883 |
-| 34 | abdullah_415 | 0.7874 |
-| 35 | dinxiang | 0.7855 |
-| 36 | skray | 0.7827 |
-| 37 | yunkuang0329 | 0.7705 |
-| 38 | dominikmacko | 0.7690 |
-| 39 | jarvis_chen | 0.7434 |
-| 40 | pskadasi | 0.7191 |
-| 41 | polarizedteam | 0.7147 |
-| 42 | ahoblitz | 0.5475 |
-| 43 | maggam | 0.4977 |
+| 1 | hidetsune | 0.8348 |
+| 2 | taien | 0.8314 |
+| 3 | maziarkiani | 0.8308 |
+| 4 | srikarkashyap | 0.8279 |
+| 5 | wz0101 | 0.8211 |
+| 6 | sujal007 | 0.8172 |
+| 7 | saeedehd | 0.8162 |
+| 8 | aatman | 0.8139 |
+| 9 | milad | 0.8137 |
+| 10 | hydrophyte | 0.8136 |
+| 11 | sandeepkumar13 | 0.8133 |
+| 12 | vorsanigo | 0.8128 |
+| 13 | samah-daniyal | 0.8107 |
+| 14 | giobigpt | 0.8105 |
+| 15 | stefana | 0.8102 |
+| 16 | suuii | 0.8088 |
+| 17 | rnnandi | 0.8068 |
+| 18 | irinapatularu | 0.8060 |
+| 19 | howard | 0.8058 |
+| 20 | boon_ | 0.8054 |
+| 21 | adamovita | 0.8049 |
+| 22 | atkid123 | 0.8049 |
+| 23 | flowin2025 | 0.8049 |
+| 24 | trantranuit | 0.8049 |
+| 25 | priyanshumittal | 0.8034 |
+| 26 | pfr812 | 0.8023 |
+| 27 | namdang_2006 | 0.8016 |
+| 28 | julio_fuganti | 0.8005 |
+| 29 | joshualee2 | 0.7998 |
+| 30 | teodori | 0.7980 |
+| 31 | samanj | 0.7898 |
+| 32 | sharmilaupa | 0.7889 |
+| 33 | amatk | 0.7883 |
+| 34 | arampageos | 0.7883 |
+| 35 | abdullah_415 | 0.7874 |
+| 36 | dinxiang | 0.7855 |
+| 37 | skray | 0.7827 |
+| 38 | yunkuang0329 | 0.7705 |
+| 39 | dominikmacko | 0.7690 |
+| 40 | jarvis_chen | 0.7434 |
+| 41 | pskadasi | 0.7191 |
+| 42 | polarizedteam | 0.7147 |
+| 43 | ahoblitz | 0.5475 |
+| 44 | maggam | 0.4977 |
 
 
 </details>
 
 
 <details>
-<summary><strong>hau</strong> (44 submissions)</summary>
+<summary><strong>hau</strong> (45 submissions)</summary>
 
 
 | rank | Username | score |
 |---|---|---|
 | 1 | phatthachdau | 0.8336 |
 | 2 | pfr812 | 0.8324 |
-| 3 | irinapatularu | 0.8304 |
-| 4 | sandeepkumar13 | 0.8270 |
-| 5 | taien | 0.8263 |
-| 6 | maziarkiani | 0.8168 |
-| 7 | boon_ | 0.8121 |
-| 8 | wz0101 | 0.8107 |
-| 9 | sujal007 | 0.8071 |
-| 10 | adamovita | 0.8070 |
-| 11 | priyanshumittal | 0.8026 |
-| 12 | srikarkashyap | 0.7995 |
-| 13 | vorsanigo | 0.7995 |
-| 14 | julio_fuganti | 0.7972 |
-| 15 | abdullah_415 | 0.7944 |
-| 16 | ashraf_cou | 0.7934 |
-| 17 | stefana | 0.7922 |
-| 18 | atkid123 | 0.7911 |
-| 19 | flowin2025 | 0.7911 |
-| 20 | trantranuit | 0.7911 |
-| 21 | howard | 0.7829 |
-| 22 | milad | 0.7787 |
-| 23 | namdang_2006 | 0.7771 |
-| 24 | rnnandi | 0.7731 |
-| 25 | dinxiang | 0.7679 |
-| 26 | sharmilaupa | 0.7672 |
-| 27 | giobigpt | 0.7641 |
-| 28 | samanj | 0.7635 |
-| 29 | skray | 0.7429 |
-| 30 | polarizedteam | 0.7420 |
-| 31 | teodori | 0.7407 |
-| 32 | dominikmacko | 0.7401 |
-| 33 | hydrophyte | 0.7401 |
-| 34 | samah-daniyal | 0.7341 |
-| 35 | oluwasegun | 0.7332 |
-| 36 | joshualee2 | 0.7231 |
-| 37 | suuii | 0.7156 |
-| 38 | jarvis_chen | 0.7126 |
-| 39 | arampageos | 0.7054 |
-| 40 | yunkuang0329 | 0.6993 |
-| 41 | aatman | 0.6919 |
-| 42 | pskadasi | 0.4719 |
-| 43 | ahoblitz | 0.3853 |
-| 44 | maggam | 0.3179 |
+| 3 | hidetsune | 0.8313 |
+| 4 | irinapatularu | 0.8304 |
+| 5 | sandeepkumar13 | 0.8270 |
+| 6 | taien | 0.8263 |
+| 7 | maziarkiani | 0.8168 |
+| 8 | boon_ | 0.8121 |
+| 9 | wz0101 | 0.8107 |
+| 10 | sujal007 | 0.8071 |
+| 11 | adamovita | 0.8070 |
+| 12 | priyanshumittal | 0.8026 |
+| 13 | srikarkashyap | 0.7995 |
+| 14 | vorsanigo | 0.7995 |
+| 15 | julio_fuganti | 0.7972 |
+| 16 | abdullah_415 | 0.7944 |
+| 17 | ashraf_cou | 0.7934 |
+| 18 | stefana | 0.7922 |
+| 19 | atkid123 | 0.7911 |
+| 20 | flowin2025 | 0.7911 |
+| 21 | trantranuit | 0.7911 |
+| 22 | howard | 0.7829 |
+| 23 | milad | 0.7787 |
+| 24 | namdang_2006 | 0.7771 |
+| 25 | rnnandi | 0.7731 |
+| 26 | dinxiang | 0.7679 |
+| 27 | sharmilaupa | 0.7672 |
+| 28 | giobigpt | 0.7641 |
+| 29 | samanj | 0.7635 |
+| 30 | skray | 0.7429 |
+| 31 | polarizedteam | 0.7420 |
+| 32 | teodori | 0.7407 |
+| 33 | dominikmacko | 0.7401 |
+| 34 | hydrophyte | 0.7401 |
+| 35 | samah-daniyal | 0.7341 |
+| 36 | oluwasegun | 0.7332 |
+| 37 | joshualee2 | 0.7231 |
+| 38 | suuii | 0.7156 |
+| 39 | jarvis_chen | 0.7126 |
+| 40 | arampageos | 0.7054 |
+| 41 | yunkuang0329 | 0.6993 |
+| 42 | aatman | 0.6919 |
+| 43 | pskadasi | 0.4719 |
+| 44 | ahoblitz | 0.3853 |
+| 45 | maggam | 0.3179 |
 
 
 </details>
 
 
 <details>
-<summary><strong>hin</strong> (46 submissions)</summary>
+<summary><strong>hin</strong> (47 submissions)</summary>
 
 
 | rank | Username | score |
@@ -467,30 +474,31 @@
 | 27 | pfr812 | 0.7929 |
 | 28 | samah-daniyal | 0.7908 |
 | 29 | milad | 0.7866 |
-| 30 | boon_ | 0.7846 |
-| 31 | aatman | 0.7843 |
-| 32 | abaruah | 0.7841 |
-| 33 | vorsanigo | 0.7820 |
-| 34 | atkid123 | 0.7803 |
-| 35 | flowin2025 | 0.7803 |
-| 36 | rnnandi | 0.7803 |
-| 37 | trantranuit | 0.7803 |
-| 38 | sandeepkumar13 | 0.7750 |
-| 39 | namdang_2006 | 0.7748 |
-| 40 | pawan2411 | 0.7726 |
-| 41 | amatk | 0.7432 |
-| 42 | samanj | 0.7348 |
-| 43 | atharva7-g | 0.7208 |
-| 44 | polarizedteam | 0.6726 |
-| 45 | ahoblitz | 0.5975 |
-| 46 | maggam | 0.5236 |
+| 30 | hidetsune | 0.7854 |
+| 31 | boon_ | 0.7846 |
+| 32 | aatman | 0.7843 |
+| 33 | abaruah | 0.7841 |
+| 34 | vorsanigo | 0.7820 |
+| 35 | atkid123 | 0.7803 |
+| 36 | flowin2025 | 0.7803 |
+| 37 | rnnandi | 0.7803 |
+| 38 | trantranuit | 0.7803 |
+| 39 | sandeepkumar13 | 0.7750 |
+| 40 | namdang_2006 | 0.7748 |
+| 41 | pawan2411 | 0.7726 |
+| 42 | amatk | 0.7432 |
+| 43 | samanj | 0.7348 |
+| 44 | atharva7-g | 0.7208 |
+| 45 | polarizedteam | 0.6726 |
+| 46 | ahoblitz | 0.5975 |
+| 47 | maggam | 0.5236 |
 
 
 </details>
 
 
 <details>
-<summary><strong>ita</strong> (43 submissions)</summary>
+<summary><strong>ita</strong> (44 submissions)</summary>
 
 
 | rank | Username | score |
@@ -536,15 +544,16 @@
 | 39 | maggam | 0.5394 |
 | 40 | amatk | 0.5393 |
 | 41 | julio_fuganti | 0.5011 |
-| 42 | vorsanigo | 0.4682 |
-| 43 | pskadasi | 0.3459 |
+| 42 | hidetsune | 0.4981 |
+| 43 | vorsanigo | 0.4682 |
+| 44 | pskadasi | 0.3459 |
 
 
 </details>
 
 
 <details>
-<summary><strong>khm</strong> (42 submissions)</summary>
+<summary><strong>khm</strong> (43 submissions)</summary>
 
 
 | rank | Username | score |
@@ -560,44 +569,45 @@
 | 9 | sharmilaupa | 0.7401 |
 | 10 | mnrath | 0.7396 |
 | 11 | milad | 0.7353 |
-| 12 | irinapatularu | 0.7312 |
-| 13 | samah-daniyal | 0.7308 |
-| 14 | julio_fuganti | 0.7303 |
-| 15 | howard | 0.7275 |
-| 16 | hydrophyte | 0.7269 |
-| 17 | teodori | 0.7245 |
-| 18 | atkid123 | 0.7230 |
-| 19 | flowin2025 | 0.7230 |
-| 20 | trantranuit | 0.7230 |
-| 21 | namdang_2006 | 0.7218 |
-| 22 | sandeepkumar13 | 0.7143 |
-| 23 | giobigpt | 0.7139 |
-| 24 | maziarkiani | 0.7113 |
-| 25 | pfr812 | 0.7090 |
-| 26 | abdullah_415 | 0.7031 |
-| 27 | pskadasi | 0.6645 |
-| 28 | arampageos | 0.6495 |
-| 29 | dinxiang | 0.6462 |
-| 30 | dominikmacko | 0.6293 |
-| 31 | adamovita | 0.6242 |
-| 32 | skray | 0.6231 |
-| 33 | samanj | 0.5948 |
-| 34 | rnnandi | 0.5844 |
-| 35 | joshualee2 | 0.5749 |
-| 36 | yunkuang0329 | 0.5747 |
-| 37 | suuii | 0.5680 |
-| 38 | sujal007 | 0.5656 |
-| 39 | ahoblitz | 0.5470 |
-| 40 | jarvis_chen | 0.4758 |
-| 41 | polarizedteam | 0.4758 |
-| 42 | maggam | 0.1440 |
+| 12 | hidetsune | 0.7320 |
+| 13 | irinapatularu | 0.7312 |
+| 14 | samah-daniyal | 0.7308 |
+| 15 | julio_fuganti | 0.7303 |
+| 16 | howard | 0.7275 |
+| 17 | hydrophyte | 0.7269 |
+| 18 | teodori | 0.7245 |
+| 19 | atkid123 | 0.7230 |
+| 20 | flowin2025 | 0.7230 |
+| 21 | trantranuit | 0.7230 |
+| 22 | namdang_2006 | 0.7218 |
+| 23 | sandeepkumar13 | 0.7143 |
+| 24 | giobigpt | 0.7139 |
+| 25 | maziarkiani | 0.7113 |
+| 26 | pfr812 | 0.7090 |
+| 27 | abdullah_415 | 0.7031 |
+| 28 | pskadasi | 0.6645 |
+| 29 | arampageos | 0.6495 |
+| 30 | dinxiang | 0.6462 |
+| 31 | dominikmacko | 0.6293 |
+| 32 | adamovita | 0.6242 |
+| 33 | skray | 0.6231 |
+| 34 | samanj | 0.5948 |
+| 35 | rnnandi | 0.5844 |
+| 36 | joshualee2 | 0.5749 |
+| 37 | yunkuang0329 | 0.5747 |
+| 38 | suuii | 0.5680 |
+| 39 | sujal007 | 0.5656 |
+| 40 | ahoblitz | 0.5470 |
+| 41 | jarvis_chen | 0.4758 |
+| 42 | polarizedteam | 0.4758 |
+| 43 | maggam | 0.1440 |
 
 
 </details>
 
 
 <details>
-<summary><strong>mya</strong> (41 submissions)</summary>
+<summary><strong>mya</strong> (42 submissions)</summary>
 
 
 | rank | Username | score |
@@ -628,28 +638,29 @@
 | 24 | irinapatularu | 0.8716 |
 | 25 | vorsanigo | 0.8664 |
 | 26 | sharmilaupa | 0.8661 |
-| 27 | sandeepkumar13 | 0.8629 |
-| 28 | priyanshumittal | 0.8596 |
-| 29 | samah-daniyal | 0.8568 |
-| 30 | giobigpt | 0.8558 |
-| 31 | namdang_2006 | 0.8536 |
-| 32 | arampageos | 0.8535 |
-| 33 | boon_ | 0.8443 |
-| 34 | jarvis_chen | 0.8437 |
-| 35 | yunkuang0329 | 0.8394 |
-| 36 | suuii | 0.8391 |
-| 37 | rnnandi | 0.8382 |
-| 38 | samanj | 0.8382 |
-| 39 | maggam | 0.7653 |
-| 40 | ahoblitz | 0.6070 |
-| 41 | polarizedteam | 0.5300 |
+| 27 | hidetsune | 0.8631 |
+| 28 | sandeepkumar13 | 0.8629 |
+| 29 | priyanshumittal | 0.8596 |
+| 30 | samah-daniyal | 0.8568 |
+| 31 | giobigpt | 0.8558 |
+| 32 | namdang_2006 | 0.8536 |
+| 33 | arampageos | 0.8535 |
+| 34 | boon_ | 0.8443 |
+| 35 | jarvis_chen | 0.8437 |
+| 36 | yunkuang0329 | 0.8394 |
+| 37 | suuii | 0.8391 |
+| 38 | rnnandi | 0.8382 |
+| 39 | samanj | 0.8382 |
+| 40 | maggam | 0.7653 |
+| 41 | ahoblitz | 0.6070 |
+| 42 | polarizedteam | 0.5300 |
 
 
 </details>
 
 
 <details>
-<summary><strong>nep</strong> (43 submissions)</summary>
+<summary><strong>nep</strong> (44 submissions)</summary>
 
 
 | rank | Username | score |
@@ -686,24 +697,25 @@
 | 30 | sharmilaupa | 0.8948 |
 | 31 | taien | 0.8948 |
 | 32 | dominikmacko | 0.8915 |
-| 33 | rnnandi | 0.8858 |
-| 34 | suuii | 0.8837 |
-| 35 | maziarkiani | 0.8815 |
-| 36 | jarvis_chen | 0.8793 |
-| 37 | aatman | 0.8769 |
-| 38 | boon_ | 0.8723 |
-| 39 | yunkuang0329 | 0.8712 |
-| 40 | samanj | 0.8283 |
-| 41 | maggam | 0.7267 |
-| 42 | ahoblitz | 0.5634 |
-| 43 | polarizedteam | 0.5093 |
+| 33 | hidetsune | 0.8870 |
+| 34 | rnnandi | 0.8858 |
+| 35 | suuii | 0.8837 |
+| 36 | maziarkiani | 0.8815 |
+| 37 | jarvis_chen | 0.8793 |
+| 38 | aatman | 0.8769 |
+| 39 | boon_ | 0.8723 |
+| 40 | yunkuang0329 | 0.8712 |
+| 41 | samanj | 0.8283 |
+| 42 | maggam | 0.7267 |
+| 43 | ahoblitz | 0.5634 |
+| 44 | polarizedteam | 0.5093 |
 
 
 </details>
 
 
 <details>
-<summary><strong>ori</strong> (44 submissions)</summary>
+<summary><strong>ori</strong> (45 submissions)</summary>
 
 
 | rank | Username | score |
@@ -735,30 +747,31 @@
 | 25 | giobigpt | 0.7778 |
 | 26 | adamovita | 0.7736 |
 | 27 | priyanshumittal | 0.7708 |
-| 28 | boon_ | 0.7683 |
-| 29 | abaruah | 0.7602 |
-| 30 | vinaybabu | 0.7589 |
-| 31 | vorsanigo | 0.7588 |
-| 32 | stefana | 0.7577 |
-| 33 | sujal007 | 0.7541 |
-| 34 | jarvis_chen | 0.7388 |
-| 35 | teodori | 0.7352 |
-| 36 | taien | 0.7309 |
-| 37 | irinapatularu | 0.7198 |
-| 38 | suuii | 0.7102 |
-| 39 | yunkuang0329 | 0.6897 |
-| 40 | rnnandi | 0.6826 |
-| 41 | maggam | 0.6365 |
-| 42 | ahoblitz | 0.6081 |
-| 43 | samanj | 0.6049 |
-| 44 | polarizedteam | 0.4172 |
+| 28 | hidetsune | 0.7685 |
+| 29 | boon_ | 0.7683 |
+| 30 | abaruah | 0.7602 |
+| 31 | vinaybabu | 0.7589 |
+| 32 | vorsanigo | 0.7588 |
+| 33 | stefana | 0.7577 |
+| 34 | sujal007 | 0.7541 |
+| 35 | jarvis_chen | 0.7388 |
+| 36 | teodori | 0.7352 |
+| 37 | taien | 0.7309 |
+| 38 | irinapatularu | 0.7198 |
+| 39 | suuii | 0.7102 |
+| 40 | yunkuang0329 | 0.6897 |
+| 41 | rnnandi | 0.6826 |
+| 42 | maggam | 0.6365 |
+| 43 | ahoblitz | 0.6081 |
+| 44 | samanj | 0.6049 |
+| 45 | polarizedteam | 0.4172 |
 
 
 </details>
 
 
 <details>
-<summary><strong>pan</strong> (43 submissions)</summary>
+<summary><strong>pan</strong> (44 submissions)</summary>
 
 
 | rank | Username | score |
@@ -799,20 +812,21 @@
 | 34 | taien | 0.7501 |
 | 35 | sharmilaupa | 0.7490 |
 | 36 | arampageos | 0.7414 |
-| 37 | yunkuang0329 | 0.7220 |
-| 38 | jarvis_chen | 0.7082 |
-| 39 | amatk | 0.7074 |
-| 40 | maggam | 0.6994 |
-| 41 | samanj | 0.6884 |
-| 42 | polarizedteam | 0.6322 |
-| 43 | ahoblitz | 0.5202 |
+| 37 | hidetsune | 0.7338 |
+| 38 | yunkuang0329 | 0.7220 |
+| 39 | jarvis_chen | 0.7082 |
+| 40 | amatk | 0.7074 |
+| 41 | maggam | 0.6994 |
+| 42 | samanj | 0.6884 |
+| 43 | polarizedteam | 0.6322 |
+| 44 | ahoblitz | 0.5202 |
 
 
 </details>
 
 
 <details>
-<summary><strong>pol</strong> (42 submissions)</summary>
+<summary><strong>pol</strong> (43 submissions)</summary>
 
 
 | rank | Username | score |
@@ -848,24 +862,25 @@
 | 29 | namdang_2006 | 0.7861 |
 | 30 | taien | 0.7847 |
 | 31 | teodori | 0.7837 |
-| 32 | jarvis_chen | 0.7806 |
-| 33 | aatman | 0.7779 |
-| 34 | amatk | 0.7764 |
-| 35 | irinapatularu | 0.7760 |
-| 36 | samanj | 0.7726 |
-| 37 | vorsanigo | 0.7723 |
-| 38 | sandeepkumar13 | 0.7721 |
-| 39 | rnnandi | 0.7562 |
-| 40 | maggam | 0.6234 |
-| 41 | polarizedteam | 0.6052 |
-| 42 | ahoblitz | 0.5734 |
+| 32 | hidetsune | 0.7823 |
+| 33 | jarvis_chen | 0.7806 |
+| 34 | aatman | 0.7779 |
+| 35 | amatk | 0.7764 |
+| 36 | irinapatularu | 0.7760 |
+| 37 | samanj | 0.7726 |
+| 38 | vorsanigo | 0.7723 |
+| 39 | sandeepkumar13 | 0.7721 |
+| 40 | rnnandi | 0.7562 |
+| 41 | maggam | 0.6234 |
+| 42 | polarizedteam | 0.6052 |
+| 43 | ahoblitz | 0.5734 |
 
 
 </details>
 
 
 <details>
-<summary><strong>rus</strong> (42 submissions)</summary>
+<summary><strong>rus</strong> (43 submissions)</summary>
 
 
 | rank | Username | score |
@@ -908,17 +923,18 @@
 | 36 | sandeepkumar13 | 0.7555 |
 | 37 | rnnandi | 0.7545 |
 | 38 | vorsanigo | 0.7535 |
-| 39 | taien | 0.7453 |
-| 40 | polarizedteam | 0.6275 |
-| 41 | ahoblitz | 0.5839 |
-| 42 | maggam | 0.5487 |
+| 39 | hidetsune | 0.7459 |
+| 40 | taien | 0.7453 |
+| 41 | polarizedteam | 0.6275 |
+| 42 | ahoblitz | 0.5839 |
+| 43 | maggam | 0.5487 |
 
 
 </details>
 
 
 <details>
-<summary><strong>spa</strong> (48 submissions)</summary>
+<summary><strong>spa</strong> (49 submissions)</summary>
 
 
 | rank | Username | score |
@@ -963,21 +979,22 @@
 | 38 | boon_ | 0.7497 |
 | 39 | vorsanigo | 0.7446 |
 | 40 | victorgs | 0.7433 |
-| 41 | samah-daniyal | 0.7408 |
-| 42 | declan-booth | 0.7384 |
-| 43 | wangkongqiang | 0.7155 |
-| 44 | polarizedteam | 0.6955 |
-| 45 | zhangpeng | 0.6711 |
-| 46 | databees | 0.6532 |
-| 47 | ahoblitz | 0.5900 |
-| 48 | maggam | 0.5001 |
+| 41 | hidetsune | 0.7415 |
+| 42 | samah-daniyal | 0.7408 |
+| 43 | declan-booth | 0.7384 |
+| 44 | wangkongqiang | 0.7155 |
+| 45 | polarizedteam | 0.6955 |
+| 46 | zhangpeng | 0.6711 |
+| 47 | databees | 0.6532 |
+| 48 | ahoblitz | 0.5900 |
+| 49 | maggam | 0.5001 |
 
 
 </details>
 
 
 <details>
-<summary><strong>swa</strong> (43 submissions)</summary>
+<summary><strong>swa</strong> (44 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1000,38 +1017,39 @@
 | 16 | flowin2025 | 0.7846 |
 | 17 | trantranuit | 0.7846 |
 | 18 | namdang_2006 | 0.7836 |
-| 19 | maziarkiani | 0.7823 |
-| 20 | priyanshumittal | 0.7798 |
-| 21 | hydrophyte | 0.7783 |
-| 22 | suuii | 0.7775 |
-| 23 | rnnandi | 0.7763 |
-| 24 | aatman | 0.7754 |
-| 25 | yunkuang0329 | 0.7750 |
-| 26 | julio_fuganti | 0.7746 |
-| 27 | polarizedteam | 0.7740 |
-| 28 | samanj | 0.7731 |
-| 29 | samah-daniyal | 0.7727 |
-| 30 | giobigpt | 0.7718 |
-| 31 | skray | 0.7713 |
-| 32 | abdullah_415 | 0.7707 |
-| 33 | milad | 0.7686 |
-| 34 | pfr812 | 0.7679 |
-| 35 | dominikmacko | 0.7658 |
-| 36 | sharmilaupa | 0.7578 |
-| 37 | arampageos | 0.7573 |
-| 38 | joshualee2 | 0.7470 |
-| 39 | pskadasi | 0.7425 |
-| 40 | jarvis_chen | 0.7413 |
-| 41 | oluwasegun | 0.7325 |
-| 42 | ahoblitz | 0.6665 |
-| 43 | maggam | 0.6471 |
+| 19 | hidetsune | 0.7829 |
+| 20 | maziarkiani | 0.7823 |
+| 21 | priyanshumittal | 0.7798 |
+| 22 | hydrophyte | 0.7783 |
+| 23 | suuii | 0.7775 |
+| 24 | rnnandi | 0.7763 |
+| 25 | aatman | 0.7754 |
+| 26 | yunkuang0329 | 0.7750 |
+| 27 | julio_fuganti | 0.7746 |
+| 28 | polarizedteam | 0.7740 |
+| 29 | samanj | 0.7731 |
+| 30 | samah-daniyal | 0.7727 |
+| 31 | giobigpt | 0.7718 |
+| 32 | skray | 0.7713 |
+| 33 | abdullah_415 | 0.7707 |
+| 34 | milad | 0.7686 |
+| 35 | pfr812 | 0.7679 |
+| 36 | dominikmacko | 0.7658 |
+| 37 | sharmilaupa | 0.7578 |
+| 38 | arampageos | 0.7573 |
+| 39 | joshualee2 | 0.7470 |
+| 40 | pskadasi | 0.7425 |
+| 41 | jarvis_chen | 0.7413 |
+| 42 | oluwasegun | 0.7325 |
+| 43 | ahoblitz | 0.6665 |
+| 44 | maggam | 0.6471 |
 
 
 </details>
 
 
 <details>
-<summary><strong>tel</strong> (44 submissions)</summary>
+<summary><strong>tel</strong> (45 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1054,39 +1072,40 @@
 | 16 | teodori | 0.8818 |
 | 17 | irinapatularu | 0.8799 |
 | 18 | sandeepkumar13 | 0.8743 |
-| 19 | samah-daniyal | 0.8734 |
-| 20 | abdullah_415 | 0.8733 |
-| 21 | atkid123 | 0.8733 |
-| 22 | flowin2025 | 0.8733 |
-| 23 | priyanshumittal | 0.8733 |
-| 24 | sharmilaupa | 0.8733 |
-| 25 | trantranuit | 0.8733 |
-| 26 | skray | 0.8695 |
-| 27 | abaruah | 0.8686 |
-| 28 | aatman | 0.8677 |
-| 29 | giobigpt | 0.8677 |
-| 30 | vinaybabu | 0.8668 |
-| 31 | namdang_2006 | 0.8658 |
-| 32 | arampageos | 0.8655 |
-| 33 | milad | 0.8549 |
-| 34 | joshualee2 | 0.8547 |
-| 35 | rnnandi | 0.8541 |
-| 36 | atharva7-g | 0.8328 |
-| 37 | suuii | 0.8286 |
-| 38 | yunkuang0329 | 0.8270 |
-| 39 | samanj | 0.8224 |
-| 40 | jarvis_chen | 0.7925 |
-| 41 | pskadasi | 0.7712 |
-| 42 | polarizedteam | 0.6557 |
-| 43 | ahoblitz | 0.5647 |
-| 44 | maggam | 0.4957 |
+| 19 | hidetsune | 0.8734 |
+| 20 | samah-daniyal | 0.8734 |
+| 21 | abdullah_415 | 0.8733 |
+| 22 | atkid123 | 0.8733 |
+| 23 | flowin2025 | 0.8733 |
+| 24 | priyanshumittal | 0.8733 |
+| 25 | sharmilaupa | 0.8733 |
+| 26 | trantranuit | 0.8733 |
+| 27 | skray | 0.8695 |
+| 28 | abaruah | 0.8686 |
+| 29 | aatman | 0.8677 |
+| 30 | giobigpt | 0.8677 |
+| 31 | vinaybabu | 0.8668 |
+| 32 | namdang_2006 | 0.8658 |
+| 33 | arampageos | 0.8655 |
+| 34 | milad | 0.8549 |
+| 35 | joshualee2 | 0.8547 |
+| 36 | rnnandi | 0.8541 |
+| 37 | atharva7-g | 0.8328 |
+| 38 | suuii | 0.8286 |
+| 39 | yunkuang0329 | 0.8270 |
+| 40 | samanj | 0.8224 |
+| 41 | jarvis_chen | 0.7925 |
+| 42 | pskadasi | 0.7712 |
+| 43 | polarizedteam | 0.6557 |
+| 44 | ahoblitz | 0.5647 |
+| 45 | maggam | 0.4957 |
 
 
 </details>
 
 
 <details>
-<summary><strong>tur</strong> (41 submissions)</summary>
+<summary><strong>tur</strong> (42 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1121,24 +1140,25 @@
 | 28 | joshualee2 | 0.7731 |
 | 29 | stefana | 0.7723 |
 | 30 | teodori | 0.7723 |
-| 31 | irinapatularu | 0.7696 |
-| 32 | namdang_2006 | 0.7666 |
-| 33 | sandeepkumar13 | 0.7639 |
-| 34 | boon_ | 0.7598 |
-| 35 | rnnandi | 0.7557 |
-| 36 | aatman | 0.7531 |
-| 37 | vorsanigo | 0.7497 |
-| 38 | samanj | 0.7349 |
-| 39 | polarizedteam | 0.6301 |
-| 40 | ahoblitz | 0.6118 |
-| 41 | maggam | 0.5939 |
+| 31 | hidetsune | 0.7712 |
+| 32 | irinapatularu | 0.7696 |
+| 33 | namdang_2006 | 0.7666 |
+| 34 | sandeepkumar13 | 0.7639 |
+| 35 | boon_ | 0.7598 |
+| 36 | rnnandi | 0.7557 |
+| 37 | aatman | 0.7531 |
+| 38 | vorsanigo | 0.7497 |
+| 39 | samanj | 0.7349 |
+| 40 | polarizedteam | 0.6301 |
+| 41 | ahoblitz | 0.6118 |
+| 42 | maggam | 0.5939 |
 
 
 </details>
 
 
 <details>
-<summary><strong>urd</strong> (44 submissions)</summary>
+<summary><strong>urd</strong> (46 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1181,19 +1201,21 @@
 | 36 | rnnandi | 0.7530 |
 | 37 | jarvis_chen | 0.7523 |
 | 38 | maziarkiani | 0.7505 |
-| 39 | boon_ | 0.7314 |
-| 40 | samanj | 0.7048 |
-| 41 | polarizedteam | 0.6541 |
-| 42 | maggam | 0.5785 |
-| 43 | ahoblitz | 0.5720 |
-| 44 | atharva7-g | 0.2995 |
+| 39 | hidetsune | 0.7442 |
+| 40 | alishba-wazir | 0.7393 |
+| 41 | boon_ | 0.7314 |
+| 42 | samanj | 0.7048 |
+| 43 | polarizedteam | 0.6541 |
+| 44 | maggam | 0.5785 |
+| 45 | ahoblitz | 0.5720 |
+| 46 | atharva7-g | 0.2995 |
 
 
 </details>
 
 
 <details>
-<summary><strong>zho</strong> (45 submissions)</summary>
+<summary><strong>zho</strong> (46 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1240,12 +1262,14 @@
 | 40 | samanj | 0.8651 |
 | 41 | vorsanigo | 0.8588 |
 | 42 | sandeepkumar13 | 0.8551 |
-| 43 | ahoblitz | 0.7020 |
-| 44 | maggam | 0.6983 |
-| 45 | polarizedteam | 0.6899 |
+| 43 | hidetsune | 0.8544 |
+| 44 | ahoblitz | 0.7020 |
+| 45 | maggam | 0.6983 |
+| 46 | polarizedteam | 0.6899 |
 
 
 </details>
+
 
 
 ---
@@ -1253,9 +1277,8 @@
 ## Subtask 2
 ### Language-specific leaderboards
 
-
 <details>
-<summary><strong>amh</strong> (24 submissions)</summary>
+<summary><strong>amh</strong> (25 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1275,22 +1298,23 @@
 | 13 | pskadasi | 0.5458 |
 | 14 | polarizedteam | 0.5155 |
 | 15 | dominikmacko | 0.5116 |
-| 16 | maggam | 0.4916 |
-| 17 | rnnandi | 0.4863 |
-| 18 | absoluking | 0.4852 |
-| 19 | vorsanigo | 0.4666 |
-| 20 | yunkuang0329 | 0.4142 |
-| 21 | ahoblitz | 0.4050 |
-| 22 | suuii | 0.3190 |
-| 23 | asbichi362 | 0.2968 |
-| 24 | samanj | 0.0964 |
+| 16 | hidetsune | 0.4995 |
+| 17 | maggam | 0.4916 |
+| 18 | rnnandi | 0.4863 |
+| 19 | absoluking | 0.4852 |
+| 20 | vorsanigo | 0.4666 |
+| 21 | yunkuang0329 | 0.4142 |
+| 22 | ahoblitz | 0.4050 |
+| 23 | suuii | 0.3190 |
+| 24 | asbichi362 | 0.2968 |
+| 25 | samanj | 0.0964 |
 
 
 </details>
 
 
 <details>
-<summary><strong>arb</strong> (26 submissions)</summary>
+<summary><strong>arb</strong> (27 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1312,22 +1336,23 @@
 | 15 | sandeepkumar13 | 0.5942 |
 | 16 | maggam | 0.5910 |
 | 17 | sujal007 | 0.5872 |
-| 18 | vorsanigo | 0.5419 |
-| 19 | polarizedteam | 0.5396 |
-| 20 | yunkuang0329 | 0.5360 |
-| 21 | a_djamai | 0.5292 |
-| 22 | suuii | 0.5257 |
-| 23 | giobigpt | 0.4649 |
-| 24 | asbichi362 | 0.4336 |
-| 25 | ahoblitz | 0.2938 |
-| 26 | samanj | 0.2083 |
+| 18 | hidetsune | 0.5770 |
+| 19 | vorsanigo | 0.5419 |
+| 20 | polarizedteam | 0.5396 |
+| 21 | yunkuang0329 | 0.5360 |
+| 22 | a_djamai | 0.5292 |
+| 23 | suuii | 0.5257 |
+| 24 | giobigpt | 0.4649 |
+| 25 | asbichi362 | 0.4336 |
+| 26 | ahoblitz | 0.2938 |
+| 27 | samanj | 0.2083 |
 
 
 </details>
 
 
 <details>
-<summary><strong>ben</strong> (29 submissions)</summary>
+<summary><strong>ben</strong> (30 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1353,21 +1378,22 @@
 | 19 | yunkuang0329 | 0.2699 |
 | 20 | arpita_mallik | 0.2668 |
 | 21 | polarizedteam | 0.2631 |
-| 22 | ahoblitz | 0.2475 |
-| 23 | abaruah | 0.2437 |
-| 24 | vinaybabu | 0.2347 |
-| 25 | asbichi362 | 0.2220 |
-| 26 | giobigpt | 0.2059 |
-| 27 | shaan | 0.2059 |
-| 28 | suuii | 0.1456 |
-| 29 | samanj | 0.0095 |
+| 22 | hidetsune | 0.2597 |
+| 23 | ahoblitz | 0.2475 |
+| 24 | abaruah | 0.2437 |
+| 25 | vinaybabu | 0.2347 |
+| 26 | asbichi362 | 0.2220 |
+| 27 | giobigpt | 0.2059 |
+| 28 | shaan | 0.2059 |
+| 29 | suuii | 0.1456 |
+| 30 | samanj | 0.0095 |
 
 
 </details>
 
 
 <details>
-<summary><strong>deu</strong> (27 submissions)</summary>
+<summary><strong>deu</strong> (28 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1390,69 +1416,70 @@
 | 16 | rnnandi | 0.5281 |
 | 17 | asbichi362 | 0.5182 |
 | 18 | polarizedteam | 0.5164 |
-| 19 | julio_fuganti | 0.5122 |
-| 20 | sanjerine | 0.5049 |
-| 21 | giobigpt | 0.4942 |
-| 22 | boon_ | 0.4870 |
-| 23 | yunkuang0329 | 0.4717 |
-| 24 | vorsanigo | 0.4459 |
-| 25 | ahoblitz | 0.4207 |
-| 26 | suuii | 0.4168 |
-| 27 | samanj | 0.3324 |
+| 19 | hidetsune | 0.5142 |
+| 20 | julio_fuganti | 0.5122 |
+| 21 | sanjerine | 0.5049 |
+| 22 | giobigpt | 0.4942 |
+| 23 | boon_ | 0.4870 |
+| 24 | yunkuang0329 | 0.4717 |
+| 25 | vorsanigo | 0.4459 |
+| 26 | ahoblitz | 0.4207 |
+| 27 | suuii | 0.4168 |
+| 28 | samanj | 0.3324 |
 
 
 </details>
 
 
 <details>
-<summary><strong>eng</strong> (35 submissions)</summary>
+<summary><strong>eng</strong> (36 submissions)</summary>
 
 
 | rank | Username | score |
 |---|---|---|
 | 1 | howard | 0.5322 |
-| 2 | dinxiang | 0.5135 |
-| 3 | abdullah_415 | 0.5035 |
-| 4 | sujal007 | 0.5035 |
-| 5 | pskadasi | 0.5027 |
-| 6 | hydrophyte | 0.5026 |
-| 7 | wz0101 | 0.4874 |
-| 8 | danielkhir | 0.4847 |
-| 9 | absoluking | 0.4812 |
-| 10 | sandeepkumar13 | 0.4802 |
-| 11 | yunkuang0329 | 0.4790 |
-| 12 | samah-daniyal | 0.4734 |
-| 13 | sharmilaupa | 0.4711 |
-| 14 | ilinkaa | 0.4695 |
-| 15 | maggam | 0.4660 |
-| 16 | suuii | 0.4644 |
-| 17 | aarondard | 0.4615 |
-| 18 | shivam_cse | 0.4600 |
-| 19 | ashraf_cou | 0.4597 |
-| 20 | sanjerine | 0.4581 |
-| 21 | shaan | 0.4535 |
-| 22 | dominikmacko | 0.4519 |
-| 23 | vorsanigo | 0.4456 |
-| 24 | normalman159 | 0.4415 |
-| 25 | boon_ | 0.4396 |
-| 26 | saikartheek | 0.4295 |
-| 27 | rnnandi | 0.4287 |
-| 28 | julio_fuganti | 0.4271 |
-| 29 | polarizedteam | 0.3889 |
-| 30 | asbichi362 | 0.3812 |
-| 31 | samanj | 0.3766 |
-| 32 | oluwasegun | 0.3402 |
-| 33 | teagrjohnson | 0.3322 |
-| 34 | ahoblitz | 0.3256 |
-| 35 | wangkongqiang | 0.2603 |
-
+| 2 | yukino283 | 0.5157 |
+| 3 | dinxiang | 0.5135 |
+| 4 | abdullah_415 | 0.5035 |
+| 5 | sujal007 | 0.5035 |
+| 6 | pskadasi | 0.5027 |
+| 7 | hydrophyte | 0.5026 |
+| 8 | wz0101 | 0.4874 |
+| 9 | danielkhir | 0.4847 |
+| 10 | absoluking | 0.4812 |
+| 11 | sandeepkumar13 | 0.4802 |
+| 12 | yunkuang0329 | 0.4790 |
+| 13 | samah-daniyal | 0.4734 |
+| 14 | sharmilaupa | 0.4711 |
+| 15 | ilinkaa | 0.4695 |
+| 16 | maggam | 0.4660 |
+| 17 | suuii | 0.4644 |
+| 18 | aarondard | 0.4615 |
+| 19 | shivam_cse | 0.4600 |
+| 20 | ashraf_cou | 0.4597 |
+| 21 | sanjerine | 0.4581 |
+| 22 | hidetsune | 0.4545 |
+| 23 | shaan | 0.4535 |
+| 24 | dominikmacko | 0.4519 |
+| 25 | vorsanigo | 0.4456 |
+| 26 | normalman159 | 0.4415 |
+| 27 | boon_ | 0.4396 |
+| 28 | saikartheek | 0.4295 |
+| 29 | rnnandi | 0.4287 |
+| 30 | julio_fuganti | 0.4271 |
+| 31 | polarizedteam | 0.3889 |
+| 32 | asbichi362 | 0.3812 |
+| 33 | samanj | 0.3766 |
+| 34 | oluwasegun | 0.3402 |
+| 35 | teagrjohnson | 0.3322 |
+| 36 | ahoblitz | 0.3256 |
 
 
 </details>
 
 
 <details>
-<summary><strong>fas</strong> (26 submissions)</summary>
+<summary><strong>fas</strong> (27 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1462,34 +1489,35 @@
 | 3 | samah-daniyal | 0.6088 |
 | 4 | abdullah_415 | 0.6048 |
 | 5 | dinxiang | 0.5980 |
-| 6 | boon_ | 0.5961 |
-| 7 | sandeepkumar13 | 0.5850 |
-| 8 | sharmilaupa | 0.5817 |
-| 9 | polarizedteam | 0.5804 |
-| 10 | hydrophyte | 0.5800 |
-| 11 | sujal007 | 0.5795 |
-| 12 | sanjerine | 0.5793 |
-| 13 | saeedehd | 0.5792 |
-| 14 | rnnandi | 0.5772 |
-| 15 | pskadasi | 0.5757 |
-| 16 | asbichi362 | 0.5614 |
-| 17 | absoluking | 0.5596 |
-| 18 | vorsanigo | 0.5532 |
-| 19 | julio_fuganti | 0.5518 |
-| 20 | samanj | 0.5479 |
-| 21 | howard | 0.5464 |
-| 22 | dominikmacko | 0.5250 |
-| 23 | yunkuang0329 | 0.5228 |
-| 24 | suuii | 0.4519 |
-| 25 | maggam | 0.4378 |
-| 26 | ahoblitz | 0.3263 |
+| 6 | hidetsune | 0.5966 |
+| 7 | boon_ | 0.5961 |
+| 8 | sandeepkumar13 | 0.5850 |
+| 9 | sharmilaupa | 0.5817 |
+| 10 | polarizedteam | 0.5804 |
+| 11 | hydrophyte | 0.5800 |
+| 12 | sujal007 | 0.5795 |
+| 13 | sanjerine | 0.5793 |
+| 14 | saeedehd | 0.5792 |
+| 15 | rnnandi | 0.5772 |
+| 16 | pskadasi | 0.5757 |
+| 17 | asbichi362 | 0.5614 |
+| 18 | absoluking | 0.5596 |
+| 19 | vorsanigo | 0.5532 |
+| 20 | julio_fuganti | 0.5518 |
+| 21 | samanj | 0.5479 |
+| 22 | howard | 0.5464 |
+| 23 | dominikmacko | 0.5250 |
+| 24 | yunkuang0329 | 0.5228 |
+| 25 | suuii | 0.4519 |
+| 26 | maggam | 0.4378 |
+| 27 | ahoblitz | 0.3263 |
 
 
 </details>
 
 
 <details>
-<summary><strong>hau</strong> (27 submissions)</summary>
+<summary><strong>hau</strong> (28 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1511,23 +1539,24 @@
 | 15 | vorsanigo | 0.2983 |
 | 16 | absoluking | 0.2932 |
 | 17 | faisalm93 | 0.2346 |
-| 18 | rnnandi | 0.1970 |
-| 19 | dominikmacko | 0.1689 |
-| 20 | oluwasegun | 0.1579 |
-| 21 | ahoblitz | 0.1553 |
-| 22 | maggam | 0.1325 |
-| 23 | yunkuang0329 | 0.1312 |
-| 24 | polarizedteam | 0.1289 |
-| 25 | suuii | 0.0904 |
-| 26 | asbichi362 | 0.0899 |
-| 27 | samanj | 0.0600 |
+| 18 | hidetsune | 0.2321 |
+| 19 | rnnandi | 0.1970 |
+| 20 | dominikmacko | 0.1689 |
+| 21 | oluwasegun | 0.1579 |
+| 22 | ahoblitz | 0.1553 |
+| 23 | maggam | 0.1325 |
+| 24 | yunkuang0329 | 0.1312 |
+| 25 | polarizedteam | 0.1289 |
+| 26 | suuii | 0.0904 |
+| 27 | asbichi362 | 0.0899 |
+| 28 | samanj | 0.0600 |
 
 
 </details>
 
 
 <details>
-<summary><strong>hin</strong> (29 submissions)</summary>
+<summary><strong>hin</strong> (30 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1545,29 +1574,30 @@
 | 11 | jarvis_chen | 0.7748 |
 | 12 | samah-daniyal | 0.7711 |
 | 13 | pskadasi | 0.7704 |
-| 14 | ilinkaa | 0.7580 |
-| 15 | dominikmacko | 0.7573 |
-| 16 | sujal007 | 0.7533 |
-| 17 | abaruah | 0.7488 |
-| 18 | polarizedteam | 0.7474 |
-| 19 | asbichi362 | 0.7429 |
-| 20 | rnnandi | 0.7229 |
-| 21 | julio_fuganti | 0.7137 |
-| 22 | vorsanigo | 0.7128 |
-| 23 | yunkuang0329 | 0.7028 |
-| 24 | vinaybabu | 0.7008 |
-| 25 | maggam | 0.5974 |
-| 26 | suuii | 0.5693 |
-| 27 | ahoblitz | 0.4468 |
-| 28 | giobigpt | 0.2987 |
-| 29 | samanj | 0.2165 |
+| 14 | hidetsune | 0.7702 |
+| 15 | ilinkaa | 0.7580 |
+| 16 | dominikmacko | 0.7573 |
+| 17 | sujal007 | 0.7533 |
+| 18 | abaruah | 0.7488 |
+| 19 | polarizedteam | 0.7474 |
+| 20 | asbichi362 | 0.7429 |
+| 21 | rnnandi | 0.7229 |
+| 22 | julio_fuganti | 0.7137 |
+| 23 | vorsanigo | 0.7128 |
+| 24 | yunkuang0329 | 0.7028 |
+| 25 | vinaybabu | 0.7008 |
+| 26 | maggam | 0.5974 |
+| 27 | suuii | 0.5693 |
+| 28 | ahoblitz | 0.4468 |
+| 29 | giobigpt | 0.2987 |
+| 30 | samanj | 0.2165 |
 
 
 </details>
 
 
 <details>
-<summary><strong>ita</strong> (25 submissions)</summary>
+<summary><strong>ita</strong> (26 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1594,16 +1624,17 @@
 | 20 | asbichi362 | 0.2291 |
 | 21 | polarizedteam | 0.2269 |
 | 22 | boon_ | 0.2136 |
-| 23 | julio_fuganti | 0.1654 |
-| 24 | vorsanigo | 0.1407 |
-| 25 | suuii | 0.1393 |
+| 23 | hidetsune | 0.2080 |
+| 24 | julio_fuganti | 0.1654 |
+| 25 | vorsanigo | 0.1407 |
+| 26 | suuii | 0.1393 |
 
 
 </details>
 
 
 <details>
-<summary><strong>khm</strong> (24 submissions)</summary>
+<summary><strong>khm</strong> (25 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1627,18 +1658,19 @@
 | 17 | sujal007 | 0.6014 |
 | 18 | yunkuang0329 | 0.5651 |
 | 19 | rnnandi | 0.5130 |
-| 20 | ahoblitz | 0.3421 |
-| 21 | maggam | 0.2719 |
-| 22 | suuii | 0.2344 |
-| 23 | asbichi362 | 0.2289 |
-| 24 | samanj | 0.0850 |
+| 20 | hidetsune | 0.5010 |
+| 21 | ahoblitz | 0.3421 |
+| 22 | maggam | 0.2719 |
+| 23 | suuii | 0.2344 |
+| 24 | asbichi362 | 0.2289 |
+| 25 | samanj | 0.0850 |
 
 
 </details>
 
 
 <details>
-<summary><strong>mya</strong> (24 submissions)</summary>
+<summary><strong>mya</strong> (25 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1661,19 +1693,20 @@
 | 16 | rnnandi | 0.6619 |
 | 17 | boon_ | 0.6382 |
 | 18 | polarizedteam | 0.6132 |
-| 19 | maggam | 0.4780 |
-| 20 | asbichi362 | 0.4554 |
-| 21 | yunkuang0329 | 0.3998 |
-| 22 | suuii | 0.2908 |
-| 23 | ahoblitz | 0.2813 |
-| 24 | samanj | 0.0649 |
+| 19 | hidetsune | 0.5747 |
+| 20 | maggam | 0.4780 |
+| 21 | asbichi362 | 0.4554 |
+| 22 | yunkuang0329 | 0.3998 |
+| 23 | suuii | 0.2908 |
+| 24 | ahoblitz | 0.2813 |
+| 25 | samanj | 0.0649 |
 
 
 </details>
 
 
 <details>
-<summary><strong>nep</strong> (27 submissions)</summary>
+<summary><strong>nep</strong> (28 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1693,25 +1726,26 @@
 | 13 | sharmilaupa | 0.7675 |
 | 14 | abaruah | 0.7662 |
 | 15 | vorsanigo | 0.7658 |
-| 16 | rnnandi | 0.7556 |
-| 17 | julio_fuganti | 0.7519 |
-| 18 | samah-daniyal | 0.7507 |
-| 19 | hydrophyte | 0.7502 |
-| 20 | ilinkaa | 0.7409 |
-| 21 | polarizedteam | 0.7180 |
-| 22 | yunkuang0329 | 0.6844 |
-| 23 | maggam | 0.6368 |
-| 24 | asbichi362 | 0.6127 |
-| 25 | suuii | 0.5654 |
-| 26 | ahoblitz | 0.4837 |
-| 27 | samanj | 0.1595 |
+| 16 | hidetsune | 0.7637 |
+| 17 | rnnandi | 0.7556 |
+| 18 | julio_fuganti | 0.7519 |
+| 19 | samah-daniyal | 0.7507 |
+| 20 | hydrophyte | 0.7502 |
+| 21 | ilinkaa | 0.7409 |
+| 22 | polarizedteam | 0.7180 |
+| 23 | yunkuang0329 | 0.6844 |
+| 24 | maggam | 0.6368 |
+| 25 | asbichi362 | 0.6127 |
+| 26 | suuii | 0.5654 |
+| 27 | ahoblitz | 0.4837 |
+| 28 | samanj | 0.1595 |
 
 
 </details>
 
 
 <details>
-<summary><strong>ori</strong> (26 submissions)</summary>
+<summary><strong>ori</strong> (27 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1734,53 +1768,22 @@
 | 16 | dominikmacko | 0.4628 |
 | 17 | vorsanigo | 0.4597 |
 | 18 | abaruah | 0.4526 |
-| 19 | polarizedteam | 0.4210 |
-| 20 | rnnandi | 0.3728 |
-| 21 | vinaybabu | 0.3522 |
-| 22 | yunkuang0329 | 0.3493 |
-| 23 | ahoblitz | 0.2437 |
-| 24 | suuii | 0.1334 |
-| 25 | asbichi362 | 0.1293 |
-| 26 | samanj | 0.0348 |
+| 19 | hidetsune | 0.4503 |
+| 20 | polarizedteam | 0.4210 |
+| 21 | rnnandi | 0.3728 |
+| 22 | vinaybabu | 0.3522 |
+| 23 | yunkuang0329 | 0.3493 |
+| 24 | ahoblitz | 0.2437 |
+| 25 | suuii | 0.1334 |
+| 26 | asbichi362 | 0.1293 |
+| 27 | samanj | 0.0348 |
 
-
-</details>
-
-<details>
-<summary><strong>pan</strong> (24 submissions)</summary>
-
-| rank | Username | score |
-|---|---|---|
-| 1 | wz0101 | 0.5526 |
-| 2 | sujal007 | 0.5243 |
-| 3 | boon_ | 0.5031 |
-| 4 | dinxiang | 0.4835 |
-| 5 | sanjerine | 0.4785 |
-| 6 | abdullah_415 | 0.4715 |
-| 7 | howard | 0.4677 |
-| 8 | samah-daniyal | 0.4627 |
-| 9 | pskadasi | 0.4555 |
-| 10 | sharmilaupa | 0.4539 |
-| 11 | sandeepkumar13 | 0.4259 |
-| 12 | absoluking | 0.4237 |
-| 13 | maggam | 0.4237 |
-| 14 | suuii | 0.4206 |
-| 15 | hydrophyte | 0.4205 |
-| 16 | polarizedteam | 0.4171 |
-| 17 | yunkuang0329 | 0.4117 |
-| 18 | vorsanigo | 0.3957 |
-| 19 | julio_fuganti | 0.3928 |
-| 20 | rnnandi | 0.3811 |
-| 21 | dominikmacko | 0.3734 |
-| 22 | asbichi362 | 0.3332 |
-| 23 | ahoblitz | 0.2514 |
-| 24 | samanj | 0.1538 |
 
 </details>
 
 
 <details>
-<summary><strong>pol</strong> (26 submissions)</summary>
+<summary><strong>pol</strong> (27 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1804,20 +1807,21 @@
 | 17 | rnnandi | 0.5088 |
 | 18 | yunkuang0329 | 0.5061 |
 | 19 | polarizedteam | 0.4962 |
-| 20 | ilinkaa | 0.4721 |
-| 21 | vorsanigo | 0.4577 |
-| 22 | suuii | 0.4570 |
-| 23 | giobigpt | 0.4207 |
-| 24 | asbichi362 | 0.3842 |
-| 25 | ahoblitz | 0.2935 |
-| 26 | samanj | 0.2366 |
+| 20 | hidetsune | 0.4838 |
+| 21 | ilinkaa | 0.4721 |
+| 22 | vorsanigo | 0.4577 |
+| 23 | suuii | 0.4570 |
+| 24 | giobigpt | 0.4207 |
+| 25 | asbichi362 | 0.3842 |
+| 26 | ahoblitz | 0.2935 |
+| 27 | samanj | 0.2366 |
 
 
 </details>
 
 
 <details>
-<summary><strong>rus</strong> (26 submissions)</summary>
+<summary><strong>rus</strong> (27 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1840,21 +1844,22 @@
 | 16 | samah-daniyal | 0.4988 |
 | 17 | dominikmacko | 0.4952 |
 | 18 | sandeepkumar13 | 0.4924 |
-| 19 | ilinkaa | 0.4329 |
-| 20 | suuii | 0.4109 |
-| 21 | maggam | 0.4037 |
-| 22 | giobigpt | 0.3911 |
-| 23 | polarizedteam | 0.3884 |
-| 24 | asbichi362 | 0.3484 |
-| 25 | ahoblitz | 0.2571 |
-| 26 | samanj | 0.1228 |
+| 19 | hidetsune | 0.4608 |
+| 20 | ilinkaa | 0.4329 |
+| 21 | suuii | 0.4109 |
+| 22 | maggam | 0.4037 |
+| 23 | giobigpt | 0.3911 |
+| 24 | polarizedteam | 0.3884 |
+| 25 | asbichi362 | 0.3484 |
+| 26 | ahoblitz | 0.2571 |
+| 27 | samanj | 0.1228 |
 
 
 </details>
 
 
 <details>
-<summary><strong>spa</strong> (28 submissions)</summary>
+<summary><strong>spa</strong> (29 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1877,23 +1882,24 @@
 | 16 | ilinkaa | 0.6222 |
 | 17 | rnnandi | 0.6194 |
 | 18 | sujal007 | 0.6154 |
-| 19 | boon_ | 0.6118 |
-| 20 | polarizedteam | 0.6004 |
-| 21 | samanj | 0.5842 |
-| 22 | asbichi362 | 0.5556 |
-| 23 | yunkuang0329 | 0.5545 |
-| 24 | maggam | 0.5433 |
-| 25 | suuii | 0.4912 |
-| 26 | giobigpt | 0.4723 |
-| 27 | wangkongqiang | 0.4647 |
-| 28 | ahoblitz | 0.3648 |
+| 19 | hidetsune | 0.6121 |
+| 20 | boon_ | 0.6118 |
+| 21 | polarizedteam | 0.6004 |
+| 22 | samanj | 0.5842 |
+| 23 | asbichi362 | 0.5556 |
+| 24 | yunkuang0329 | 0.5545 |
+| 25 | maggam | 0.5433 |
+| 26 | suuii | 0.4912 |
+| 27 | giobigpt | 0.4723 |
+| 28 | wangkongqiang | 0.4647 |
+| 29 | ahoblitz | 0.3648 |
 
 
 </details>
 
 
 <details>
-<summary><strong>swa</strong> (26 submissions)</summary>
+<summary><strong>swa</strong> (27 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1902,35 +1908,36 @@
 | 2 | howard | 0.5397 |
 | 3 | sanjerine | 0.5360 |
 | 4 | dinxiang | 0.5224 |
-| 5 | polarizedteam | 0.4997 |
-| 6 | sharmilaupa | 0.4933 |
-| 7 | sujal007 | 0.4930 |
-| 8 | pskadasi | 0.4929 |
-| 9 | hydrophyte | 0.4828 |
-| 10 | aarondard | 0.4808 |
-| 11 | sandeepkumar13 | 0.4762 |
-| 12 | boon_ | 0.4749 |
-| 13 | samah-daniyal | 0.4733 |
-| 14 | vorsanigo | 0.4700 |
-| 15 | rnnandi | 0.4443 |
-| 16 | julio_fuganti | 0.4268 |
-| 17 | dominikmacko | 0.4226 |
-| 18 | absoluking | 0.4204 |
-| 19 | abdullah_415 | 0.4114 |
-| 20 | yunkuang0329 | 0.3807 |
-| 21 | asbichi362 | 0.3777 |
-| 22 | suuii | 0.3364 |
-| 23 | ahoblitz | 0.3110 |
-| 24 | maggam | 0.3007 |
-| 25 | oluwasegun | 0.2400 |
-| 26 | samanj | 0.0992 |
+| 5 | hidetsune | 0.5099 |
+| 6 | polarizedteam | 0.4997 |
+| 7 | sharmilaupa | 0.4933 |
+| 8 | sujal007 | 0.4930 |
+| 9 | pskadasi | 0.4929 |
+| 10 | hydrophyte | 0.4828 |
+| 11 | aarondard | 0.4808 |
+| 12 | sandeepkumar13 | 0.4762 |
+| 13 | boon_ | 0.4749 |
+| 14 | samah-daniyal | 0.4733 |
+| 15 | vorsanigo | 0.4700 |
+| 16 | rnnandi | 0.4443 |
+| 17 | julio_fuganti | 0.4268 |
+| 18 | dominikmacko | 0.4226 |
+| 19 | absoluking | 0.4204 |
+| 20 | abdullah_415 | 0.4114 |
+| 21 | yunkuang0329 | 0.3807 |
+| 22 | asbichi362 | 0.3777 |
+| 23 | suuii | 0.3364 |
+| 24 | ahoblitz | 0.3110 |
+| 25 | maggam | 0.3007 |
+| 26 | oluwasegun | 0.2400 |
+| 27 | samanj | 0.0992 |
 
 
 </details>
 
 
 <details>
-<summary><strong>tel</strong> (26 submissions)</summary>
+<summary><strong>tel</strong> (27 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1944,30 +1951,31 @@
 | 7 | julio_fuganti | 0.4404 |
 | 8 | dinxiang | 0.4296 |
 | 9 | hydrophyte | 0.4285 |
-| 10 | samah-daniyal | 0.4064 |
-| 11 | pskadasi | 0.4054 |
-| 12 | howard | 0.3931 |
-| 13 | polarizedteam | 0.3918 |
-| 14 | absoluking | 0.3541 |
-| 15 | abaruah | 0.3134 |
-| 16 | sanjerine | 0.3049 |
-| 17 | maggam | 0.2832 |
-| 18 | rnnandi | 0.2785 |
-| 19 | suuii | 0.2783 |
-| 20 | asbichi362 | 0.2708 |
-| 21 | dominikmacko | 0.2573 |
-| 22 | yunkuang0329 | 0.2503 |
-| 23 | ahoblitz | 0.2317 |
-| 24 | vorsanigo | 0.2297 |
-| 25 | vinaybabu | 0.1299 |
-| 26 | samanj | 0.1018 |
+| 10 | hidetsune | 0.4270 |
+| 11 | samah-daniyal | 0.4064 |
+| 12 | pskadasi | 0.4054 |
+| 13 | howard | 0.3931 |
+| 14 | polarizedteam | 0.3918 |
+| 15 | absoluking | 0.3541 |
+| 16 | abaruah | 0.3134 |
+| 17 | sanjerine | 0.3049 |
+| 18 | maggam | 0.2832 |
+| 19 | rnnandi | 0.2785 |
+| 20 | suuii | 0.2783 |
+| 21 | asbichi362 | 0.2708 |
+| 22 | dominikmacko | 0.2573 |
+| 23 | yunkuang0329 | 0.2503 |
+| 24 | ahoblitz | 0.2317 |
+| 25 | vorsanigo | 0.2297 |
+| 26 | vinaybabu | 0.1299 |
+| 27 | samanj | 0.1018 |
 
 
 </details>
 
 
 <details>
-<summary><strong>tur</strong> (25 submissions)</summary>
+<summary><strong>tur</strong> (26 submissions)</summary>
 
 
 | rank | Username | score |
@@ -1987,23 +1995,24 @@
 | 13 | sandeepkumar13 | 0.5688 |
 | 14 | rnnandi | 0.5648 |
 | 15 | julio_fuganti | 0.5638 |
-| 16 | hydrophyte | 0.5633 |
-| 17 | sharmilaupa | 0.5629 |
-| 18 | suuii | 0.5467 |
-| 19 | sujal007 | 0.5438 |
-| 20 | vorsanigo | 0.5187 |
-| 21 | polarizedteam | 0.4849 |
-| 22 | giobigpt | 0.4708 |
-| 23 | asbichi362 | 0.4319 |
-| 24 | ahoblitz | 0.3448 |
-| 25 | samanj | 0.1982 |
+| 16 | hidetsune | 0.5636 |
+| 17 | hydrophyte | 0.5633 |
+| 18 | sharmilaupa | 0.5629 |
+| 19 | suuii | 0.5467 |
+| 20 | sujal007 | 0.5438 |
+| 21 | vorsanigo | 0.5187 |
+| 22 | polarizedteam | 0.4849 |
+| 23 | giobigpt | 0.4708 |
+| 24 | asbichi362 | 0.4319 |
+| 25 | ahoblitz | 0.3448 |
+| 26 | samanj | 0.1982 |
 
 
 </details>
 
 
 <details>
-<summary><strong>urd</strong> (28 submissions)</summary>
+<summary><strong>urd</strong> (30 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2024,25 +2033,27 @@
 | 14 | sharmilaupa | 0.7649 |
 | 15 | abaruah | 0.7624 |
 | 16 | sandeepkumar13 | 0.7605 |
-| 17 | polarizedteam | 0.7524 |
-| 18 | ilinkaa | 0.7505 |
-| 19 | vorsanigo | 0.7462 |
-| 20 | sanjerine | 0.7314 |
-| 21 | yunkuang0329 | 0.7183 |
-| 22 | asbichi362 | 0.7073 |
-| 23 | rnnandi | 0.7071 |
-| 24 | suuii | 0.6750 |
-| 25 | ahoblitz | 0.5423 |
-| 26 | maggam | 0.4818 |
-| 27 | giobigpt | 0.2515 |
-| 28 | samanj | 0.2063 |
+| 17 | hidetsune | 0.7563 |
+| 18 | polarizedteam | 0.7524 |
+| 19 | ilinkaa | 0.7505 |
+| 20 | vorsanigo | 0.7462 |
+| 21 | sanjerine | 0.7314 |
+| 22 | alishba-wazir | 0.7268 |
+| 23 | yunkuang0329 | 0.7183 |
+| 24 | asbichi362 | 0.7073 |
+| 25 | rnnandi | 0.7071 |
+| 26 | suuii | 0.6750 |
+| 27 | ahoblitz | 0.5423 |
+| 28 | maggam | 0.4818 |
+| 29 | giobigpt | 0.2515 |
+| 30 | samanj | 0.2063 |
 
 
 </details>
 
 
 <details>
-<summary><strong>zho</strong> (29 submissions)</summary>
+<summary><strong>zho</strong> (30 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2070,15 +2081,17 @@
 | 21 | sandeepkumar13 | 0.7301 |
 | 22 | vorsanigo | 0.7256 |
 | 23 | polarizedteam | 0.7119 |
-| 24 | suuii | 0.6381 |
-| 25 | maggam | 0.6208 |
-| 26 | asbichi362 | 0.5922 |
-| 27 | ahoblitz | 0.5162 |
-| 28 | giobigpt | 0.5086 |
-| 29 | samanj | 0.2111 |
+| 24 | hidetsune | 0.7082 |
+| 25 | suuii | 0.6381 |
+| 26 | maggam | 0.6208 |
+| 27 | asbichi362 | 0.5922 |
+| 28 | ahoblitz | 0.5162 |
+| 29 | giobigpt | 0.5086 |
+| 30 | samanj | 0.2111 |
 
 
 </details>
+
 
 
 ---
@@ -2086,9 +2099,8 @@
 ## Subtask 3
 ### Language-specific leaderboards
 
-
 <details>
-<summary><strong>amh</strong> (18 submissions)</summary>
+<summary><strong>amh</strong> (19 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2102,22 +2114,23 @@
 | 7 | happynewyear | 0.5325 |
 | 8 | sujal007 | 0.5240 |
 | 9 | pskadasi | 0.5190 |
-| 10 | samah-daniyal | 0.4968 |
-| 11 | julio_fuganti | 0.4909 |
-| 12 | maggam | 0.4423 |
-| 13 | dominikmacko | 0.4310 |
-| 14 | rnnandi | 0.4094 |
-| 15 | vorsanigo | 0.4086 |
-| 16 | suuii | 0.3677 |
-| 17 | yunkuang0329 | 0.3677 |
-| 18 | ahoblitz | 0.3050 |
+| 10 | hidetsune | 0.5022 |
+| 11 | samah-daniyal | 0.4968 |
+| 12 | julio_fuganti | 0.4909 |
+| 13 | maggam | 0.4423 |
+| 14 | dominikmacko | 0.4310 |
+| 15 | rnnandi | 0.4094 |
+| 16 | vorsanigo | 0.4086 |
+| 17 | suuii | 0.3677 |
+| 18 | yunkuang0329 | 0.3677 |
+| 19 | ahoblitz | 0.3050 |
 
 
 </details>
 
 
 <details>
-<summary><strong>arb</strong> (18 submissions)</summary>
+<summary><strong>arb</strong> (19 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2132,21 +2145,22 @@
 | 8 | julio_fuganti | 0.5846 |
 | 9 | maggam | 0.5800 |
 | 10 | sujal007 | 0.5774 |
-| 11 | suuii | 0.5594 |
-| 12 | yunkuang0329 | 0.5594 |
-| 13 | samah-daniyal | 0.5485 |
-| 14 | pskadasi | 0.5329 |
-| 15 | dominikmacko | 0.5157 |
-| 16 | rnnandi | 0.5105 |
-| 17 | vorsanigo | 0.4999 |
-| 18 | ahoblitz | 0.2146 |
+| 11 | hidetsune | 0.5736 |
+| 12 | suuii | 0.5594 |
+| 13 | yunkuang0329 | 0.5594 |
+| 14 | samah-daniyal | 0.5485 |
+| 15 | pskadasi | 0.5329 |
+| 16 | dominikmacko | 0.5157 |
+| 17 | rnnandi | 0.5105 |
+| 18 | vorsanigo | 0.4999 |
+| 19 | ahoblitz | 0.2146 |
 
 
 </details>
 
 
 <details>
-<summary><strong>ben</strong> (20 submissions)</summary>
+<summary><strong>ben</strong> (21 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2156,28 +2170,29 @@
 | 3 | abdullah_415 | 0.2493 |
 | 4 | boon_ | 0.2442 |
 | 5 | julio_fuganti | 0.2366 |
-| 6 | maggam | 0.2352 |
-| 7 | samah-daniyal | 0.2327 |
-| 8 | sujal007 | 0.2288 |
-| 9 | dinxiang | 0.2139 |
-| 10 | sharmilaupa | 0.2136 |
-| 11 | hydrophyte | 0.2017 |
-| 12 | pskadasi | 0.1609 |
-| 13 | vinaybabu | 0.1570 |
-| 14 | abaruah | 0.1369 |
-| 15 | dominikmacko | 0.1272 |
-| 16 | suuii | 0.1198 |
-| 17 | yunkuang0329 | 0.1198 |
-| 18 | rnnandi | 0.1131 |
-| 19 | vorsanigo | 0.1064 |
-| 20 | ahoblitz | 0.0769 |
+| 6 | hidetsune | 0.2355 |
+| 7 | maggam | 0.2352 |
+| 8 | samah-daniyal | 0.2327 |
+| 9 | sujal007 | 0.2288 |
+| 10 | dinxiang | 0.2139 |
+| 11 | sharmilaupa | 0.2136 |
+| 12 | hydrophyte | 0.2017 |
+| 13 | pskadasi | 0.1609 |
+| 14 | vinaybabu | 0.1570 |
+| 15 | abaruah | 0.1369 |
+| 16 | dominikmacko | 0.1272 |
+| 17 | suuii | 0.1198 |
+| 18 | yunkuang0329 | 0.1198 |
+| 19 | rnnandi | 0.1131 |
+| 20 | vorsanigo | 0.1064 |
+| 21 | ahoblitz | 0.0769 |
 
 
 </details>
 
 
 <details>
-<summary><strong>deu</strong> (18 submissions)</summary>
+<summary><strong>deu</strong> (19 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2192,14 +2207,15 @@
 | 8 | abdullah_415 | 0.4902 |
 | 9 | sharmilaupa | 0.4806 |
 | 10 | samah-daniyal | 0.4552 |
-| 11 | pskadasi | 0.4494 |
-| 12 | boon_ | 0.4365 |
-| 13 | rnnandi | 0.4080 |
-| 14 | dominikmacko | 0.4044 |
-| 15 | suuii | 0.4010 |
-| 16 | yunkuang0329 | 0.4010 |
-| 17 | vorsanigo | 0.3890 |
-| 18 | ahoblitz | 0.2332 |
+| 11 | hidetsune | 0.4548 |
+| 12 | pskadasi | 0.4494 |
+| 13 | boon_ | 0.4365 |
+| 14 | rnnandi | 0.4080 |
+| 15 | dominikmacko | 0.4044 |
+| 16 | suuii | 0.4010 |
+| 17 | yunkuang0329 | 0.4010 |
+| 18 | vorsanigo | 0.3890 |
+| 19 | ahoblitz | 0.2332 |
 
 
 </details>
@@ -2219,20 +2235,20 @@
 | 6 | maggam | 0.4959 |
 | 7 | abdullah_415 | 0.4905 |
 | 8 | julio_fuganti | 0.4853 |
-| 9 | aarondard | 0.4791 |
-| 10 | sharmilaupa | 0.4740 |
-| 11 | boon_ | 0.4732 |
-| 12 | pskadasi | 0.4686 |
-| 13 | samah-daniyal | 0.4648 |
-| 14 | ashraf_cou | 0.4459 |
-| 15 | vorsanigo | 0.4370 |
-| 16 | teagrjohnson | 0.4279 |
-| 17 | suuii | 0.4222 |
-| 18 | yunkuang0329 | 0.4222 |
-| 19 | oluwasegun | 0.4149 |
-| 20 | rnnandi | 0.3943 |
-| 21 | dominikmacko | 0.3697 |
-| 22 | wangkongqiang | 0.2766 |
+| 9 | hidetsune | 0.4838 |
+| 10 | aarondard | 0.4791 |
+| 11 | sharmilaupa | 0.4740 |
+| 12 | boon_ | 0.4732 |
+| 13 | pskadasi | 0.4686 |
+| 14 | samah-daniyal | 0.4648 |
+| 15 | ashraf_cou | 0.4459 |
+| 16 | vorsanigo | 0.4370 |
+| 17 | teagrjohnson | 0.4279 |
+| 18 | suuii | 0.4222 |
+| 19 | yunkuang0329 | 0.4222 |
+| 20 | oluwasegun | 0.4149 |
+| 21 | rnnandi | 0.3943 |
+| 22 | dominikmacko | 0.3697 |
 | 23 | saikartheek | 0.2127 |
 | 24 | ahoblitz | 0.2002 |
 
@@ -2241,65 +2257,67 @@
 
 
 <details>
-<summary><strong>fas</strong> (18 submissions)</summary>
+<summary><strong>fas</strong> (19 submissions)</summary>
 
 
 | rank | Username | score |
 |---|---|---|
 | 1 | wz0101 | 0.4932 |
-| 2 | sharmilaupa | 0.4622 |
-| 3 | sujal007 | 0.4611 |
-| 4 | abdullah_415 | 0.4578 |
-| 5 | boon_ | 0.4437 |
-| 6 | happynewyear | 0.4249 |
-| 7 | hydrophyte | 0.4004 |
-| 8 | dinxiang | 0.3996 |
-| 9 | samah-daniyal | 0.3885 |
-| 10 | rnnandi | 0.3871 |
-| 11 | suuii | 0.3742 |
-| 12 | yunkuang0329 | 0.3742 |
-| 13 | vorsanigo | 0.3719 |
-| 14 | julio_fuganti | 0.3476 |
-| 15 | pskadasi | 0.3259 |
-| 16 | dominikmacko | 0.3208 |
-| 17 | maggam | 0.3127 |
-| 18 | ahoblitz | 0.1921 |
+| 2 | hidetsune | 0.4764 |
+| 3 | sharmilaupa | 0.4622 |
+| 4 | sujal007 | 0.4611 |
+| 5 | abdullah_415 | 0.4578 |
+| 6 | boon_ | 0.4437 |
+| 7 | happynewyear | 0.4249 |
+| 8 | hydrophyte | 0.4004 |
+| 9 | dinxiang | 0.3996 |
+| 10 | samah-daniyal | 0.3885 |
+| 11 | rnnandi | 0.3871 |
+| 12 | suuii | 0.3742 |
+| 13 | yunkuang0329 | 0.3742 |
+| 14 | vorsanigo | 0.3719 |
+| 15 | julio_fuganti | 0.3476 |
+| 16 | pskadasi | 0.3259 |
+| 17 | dominikmacko | 0.3208 |
+| 18 | maggam | 0.3127 |
+| 19 | ahoblitz | 0.1921 |
 
 
 </details>
 
 
 <details>
-<summary><strong>hau</strong> (18 submissions)</summary>
+<summary><strong>hau</strong> (19 submissions)</summary>
 
 
 | rank | Username | score |
 |---|---|---|
 | 1 | sujal007 | 0.2072 |
-| 2 | abdullah_415 | 0.2041 |
-| 3 | wz0101 | 0.2013 |
-| 4 | ashraf_cou | 0.1940 |
-| 5 | boon_ | 0.1781 |
-| 6 | dinxiang | 0.1596 |
-| 7 | sharmilaupa | 0.1579 |
-| 8 | julio_fuganti | 0.1430 |
-| 9 | samah-daniyal | 0.1327 |
-| 10 | hydrophyte | 0.1221 |
-| 11 | happynewyear | 0.1188 |
-| 12 | pskadasi | 0.1111 |
-| 13 | suuii | 0.0828 |
-| 14 | maggam | 0.0752 |
-| 15 | rnnandi | 0.0665 |
-| 16 | vorsanigo | 0.0454 |
-| 17 | ahoblitz | 0.0178 |
-| 18 | dominikmacko | 0.0000 |
+| 2 | hidetsune | 0.2058 |
+| 3 | abdullah_415 | 0.2041 |
+| 4 | wz0101 | 0.2013 |
+| 5 | ashraf_cou | 0.1940 |
+| 6 | boon_ | 0.1781 |
+| 7 | dinxiang | 0.1596 |
+| 8 | sharmilaupa | 0.1579 |
+| 9 | julio_fuganti | 0.1430 |
+| 10 | samah-daniyal | 0.1327 |
+| 11 | hydrophyte | 0.1221 |
+| 12 | happynewyear | 0.1188 |
+| 13 | pskadasi | 0.1111 |
+| 14 | suuii | 0.0828 |
+| 15 | maggam | 0.0752 |
+| 16 | rnnandi | 0.0665 |
+| 17 | vorsanigo | 0.0454 |
+| 18 | ahoblitz | 0.0178 |
+| 19 | dominikmacko | 0.0000 |
 
 
 </details>
 
 
 <details>
-<summary><strong>hin</strong> (20 submissions)</summary>
+<summary><strong>hin</strong> (21 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2312,25 +2330,26 @@
 | 6 | dominikmacko | 0.7453 |
 | 7 | hydrophyte | 0.7413 |
 | 8 | sujal007 | 0.7402 |
-| 9 | vorsanigo | 0.7291 |
-| 10 | rnnandi | 0.7276 |
-| 11 | vinaybabu | 0.7248 |
-| 12 | happynewyear | 0.7197 |
-| 13 | pskadasi | 0.7186 |
-| 14 | samah-daniyal | 0.7181 |
-| 15 | julio_fuganti | 0.7109 |
-| 16 | maggam | 0.6981 |
-| 17 | suuii | 0.6947 |
-| 18 | yunkuang0329 | 0.6947 |
-| 19 | abaruah | 0.6788 |
-| 20 | ahoblitz | 0.4999 |
+| 9 | hidetsune | 0.7356 |
+| 10 | vorsanigo | 0.7291 |
+| 11 | rnnandi | 0.7276 |
+| 12 | vinaybabu | 0.7248 |
+| 13 | happynewyear | 0.7197 |
+| 14 | pskadasi | 0.7186 |
+| 15 | samah-daniyal | 0.7181 |
+| 16 | julio_fuganti | 0.7109 |
+| 17 | maggam | 0.6981 |
+| 18 | suuii | 0.6947 |
+| 19 | yunkuang0329 | 0.6947 |
+| 20 | abaruah | 0.6788 |
+| 21 | ahoblitz | 0.4999 |
 
 
 </details>
 
 
 <details>
-<summary><strong>khm</strong> (18 submissions)</summary>
+<summary><strong>khm</strong> (19 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2347,19 +2366,20 @@
 | 10 | happynewyear | 0.3273 |
 | 11 | pskadasi | 0.3136 |
 | 12 | vorsanigo | 0.3006 |
-| 13 | dominikmacko | 0.2482 |
-| 14 | suuii | 0.2248 |
-| 15 | yunkuang0329 | 0.2248 |
-| 16 | rnnandi | 0.2161 |
-| 17 | ahoblitz | 0.1498 |
-| 18 | maggam | 0.1260 |
+| 13 | hidetsune | 0.2635 |
+| 14 | dominikmacko | 0.2482 |
+| 15 | suuii | 0.2248 |
+| 16 | yunkuang0329 | 0.2248 |
+| 17 | rnnandi | 0.2161 |
+| 18 | ahoblitz | 0.1498 |
+| 19 | maggam | 0.1260 |
 
 
 </details>
 
 
 <details>
-<summary><strong>nep</strong> (19 submissions)</summary>
+<summary><strong>nep</strong> (20 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2371,25 +2391,26 @@
 | 5 | vorsanigo | 0.6657 |
 | 6 | sujal007 | 0.6577 |
 | 7 | hydrophyte | 0.6531 |
-| 8 | boon_ | 0.6478 |
-| 9 | abdullah_415 | 0.6446 |
-| 10 | happynewyear | 0.6293 |
-| 11 | rnnandi | 0.6226 |
-| 12 | abaruah | 0.6013 |
-| 13 | samah-daniyal | 0.5821 |
-| 14 | dominikmacko | 0.5669 |
-| 15 | maggam | 0.5524 |
-| 16 | julio_fuganti | 0.5351 |
-| 17 | suuii | 0.5122 |
-| 18 | yunkuang0329 | 0.5122 |
-| 19 | ahoblitz | 0.1941 |
+| 8 | hidetsune | 0.6483 |
+| 9 | boon_ | 0.6478 |
+| 10 | abdullah_415 | 0.6446 |
+| 11 | happynewyear | 0.6293 |
+| 12 | rnnandi | 0.6226 |
+| 13 | abaruah | 0.6013 |
+| 14 | samah-daniyal | 0.5821 |
+| 15 | dominikmacko | 0.5669 |
+| 16 | maggam | 0.5524 |
+| 17 | julio_fuganti | 0.5351 |
+| 18 | suuii | 0.5122 |
+| 19 | yunkuang0329 | 0.5122 |
+| 20 | ahoblitz | 0.1941 |
 
 
 </details>
 
 
 <details>
-<summary><strong>ori</strong> (20 submissions)</summary>
+<summary><strong>ori</strong> (21 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2406,21 +2427,22 @@
 | 10 | samah-daniyal | 0.2328 |
 | 11 | julio_fuganti | 0.2321 |
 | 12 | maggam | 0.2240 |
-| 13 | vorsanigo | 0.1897 |
-| 14 | rnnandi | 0.1797 |
-| 15 | abaruah | 0.1522 |
-| 16 | dominikmacko | 0.1227 |
-| 17 | vinaybabu | 0.1196 |
-| 18 | suuii | 0.0701 |
-| 19 | yunkuang0329 | 0.0701 |
-| 20 | ahoblitz | 0.0633 |
+| 13 | hidetsune | 0.2183 |
+| 14 | vorsanigo | 0.1897 |
+| 15 | rnnandi | 0.1797 |
+| 16 | abaruah | 0.1522 |
+| 17 | dominikmacko | 0.1227 |
+| 18 | vinaybabu | 0.1196 |
+| 19 | suuii | 0.0701 |
+| 20 | yunkuang0329 | 0.0701 |
+| 21 | ahoblitz | 0.0633 |
 
 
 </details>
 
 
 <details>
-<summary><strong>pan</strong> (19 submissions)</summary>
+<summary><strong>pan</strong> (20 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2429,28 +2451,29 @@
 | 2 | wz0101 | 0.5407 |
 | 3 | boon_ | 0.5290 |
 | 4 | sujal007 | 0.5230 |
-| 5 | sharmilaupa | 0.5169 |
-| 6 | hydrophyte | 0.5037 |
-| 7 | abdullah_415 | 0.5036 |
-| 8 | pskadasi | 0.4972 |
-| 9 | happynewyear | 0.4962 |
-| 10 | dominikmacko | 0.4933 |
-| 11 | julio_fuganti | 0.4816 |
-| 12 | rnnandi | 0.4705 |
-| 13 | suuii | 0.4668 |
-| 14 | yunkuang0329 | 0.4668 |
-| 15 | vorsanigo | 0.4636 |
-| 16 | samah-daniyal | 0.4272 |
-| 17 | abaruah | 0.4166 |
-| 18 | maggam | 0.3842 |
-| 19 | ahoblitz | 0.2359 |
+| 5 | hidetsune | 0.5195 |
+| 6 | sharmilaupa | 0.5169 |
+| 7 | hydrophyte | 0.5037 |
+| 8 | abdullah_415 | 0.5036 |
+| 9 | pskadasi | 0.4972 |
+| 10 | happynewyear | 0.4962 |
+| 11 | dominikmacko | 0.4933 |
+| 12 | julio_fuganti | 0.4816 |
+| 13 | rnnandi | 0.4705 |
+| 14 | suuii | 0.4668 |
+| 15 | yunkuang0329 | 0.4668 |
+| 16 | vorsanigo | 0.4636 |
+| 17 | samah-daniyal | 0.4272 |
+| 18 | abaruah | 0.4166 |
+| 19 | maggam | 0.3842 |
+| 20 | ahoblitz | 0.2359 |
 
 
 </details>
 
 
 <details>
-<summary><strong>spa</strong> (20 submissions)</summary>
+<summary><strong>spa</strong> (21 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2461,27 +2484,28 @@
 | 4 | abdullah_415 | 0.5065 |
 | 5 | hydrophyte | 0.5050 |
 | 6 | sujal007 | 0.4950 |
-| 7 | boon_ | 0.4825 |
-| 8 | julio_fuganti | 0.4794 |
-| 9 | pskadasi | 0.4706 |
-| 10 | happynewyear | 0.4656 |
-| 11 | samah-daniyal | 0.4520 |
-| 12 | maggam | 0.4456 |
-| 13 | vorsanigo | 0.4417 |
-| 14 | zhangpeng | 0.4366 |
-| 15 | suuii | 0.4307 |
-| 16 | yunkuang0329 | 0.4307 |
-| 17 | rnnandi | 0.4229 |
-| 18 | dominikmacko | 0.3965 |
-| 19 | wangkongqiang | 0.3322 |
-| 20 | ahoblitz | 0.2199 |
+| 7 | hidetsune | 0.4874 |
+| 8 | boon_ | 0.4825 |
+| 9 | julio_fuganti | 0.4794 |
+| 10 | pskadasi | 0.4706 |
+| 11 | happynewyear | 0.4656 |
+| 12 | samah-daniyal | 0.4520 |
+| 13 | maggam | 0.4456 |
+| 14 | vorsanigo | 0.4417 |
+| 15 | zhangpeng | 0.4366 |
+| 16 | suuii | 0.4307 |
+| 17 | yunkuang0329 | 0.4307 |
+| 18 | rnnandi | 0.4229 |
+| 19 | dominikmacko | 0.3965 |
+| 20 | wangkongqiang | 0.3322 |
+| 21 | ahoblitz | 0.2199 |
 
 
 </details>
 
 
 <details>
-<summary><strong>swa</strong> (19 submissions)</summary>
+<summary><strong>swa</strong> (20 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2489,29 +2513,30 @@
 | 1 | wz0101 | 0.5840 |
 | 2 | aarondard | 0.5830 |
 | 3 | boon_ | 0.5652 |
-| 4 | sharmilaupa | 0.5615 |
-| 5 | dinxiang | 0.5487 |
-| 6 | hydrophyte | 0.5474 |
-| 7 | abdullah_415 | 0.5469 |
-| 8 | julio_fuganti | 0.5433 |
-| 9 | sujal007 | 0.5280 |
-| 10 | suuii | 0.5150 |
-| 11 | yunkuang0329 | 0.5150 |
-| 12 | rnnandi | 0.5002 |
-| 13 | vorsanigo | 0.4860 |
-| 14 | pskadasi | 0.4844 |
-| 15 | samah-daniyal | 0.4742 |
-| 16 | happynewyear | 0.4660 |
-| 17 | dominikmacko | 0.4570 |
-| 18 | maggam | 0.4243 |
-| 19 | ahoblitz | 0.2855 |
+| 4 | hidetsune | 0.5623 |
+| 5 | sharmilaupa | 0.5615 |
+| 6 | dinxiang | 0.5487 |
+| 7 | hydrophyte | 0.5474 |
+| 8 | abdullah_415 | 0.5469 |
+| 9 | julio_fuganti | 0.5433 |
+| 10 | sujal007 | 0.5280 |
+| 11 | suuii | 0.5150 |
+| 12 | yunkuang0329 | 0.5150 |
+| 13 | rnnandi | 0.5002 |
+| 14 | vorsanigo | 0.4860 |
+| 15 | pskadasi | 0.4844 |
+| 16 | samah-daniyal | 0.4742 |
+| 17 | happynewyear | 0.4660 |
+| 18 | dominikmacko | 0.4570 |
+| 19 | maggam | 0.4243 |
+| 20 | ahoblitz | 0.2855 |
 
 
 </details>
 
 
 <details>
-<summary><strong>tel</strong> (20 submissions)</summary>
+<summary><strong>tel</strong> (21 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2524,25 +2549,26 @@
 | 6 | boon_ | 0.3974 |
 | 7 | dinxiang | 0.3964 |
 | 8 | hydrophyte | 0.3783 |
-| 9 | happynewyear | 0.3517 |
-| 10 | pskadasi | 0.3451 |
-| 11 | samah-daniyal | 0.2906 |
-| 12 | abaruah | 0.2780 |
-| 13 | vorsanigo | 0.2419 |
-| 14 | maggam | 0.2260 |
-| 15 | dominikmacko | 0.2143 |
-| 16 | vinaybabu | 0.2102 |
-| 17 | rnnandi | 0.1798 |
-| 18 | ahoblitz | 0.1605 |
-| 19 | suuii | 0.1586 |
-| 20 | yunkuang0329 | 0.1586 |
+| 9 | hidetsune | 0.3734 |
+| 10 | happynewyear | 0.3517 |
+| 11 | pskadasi | 0.3451 |
+| 12 | samah-daniyal | 0.2906 |
+| 13 | abaruah | 0.2780 |
+| 14 | vorsanigo | 0.2419 |
+| 15 | maggam | 0.2260 |
+| 16 | dominikmacko | 0.2143 |
+| 17 | vinaybabu | 0.2102 |
+| 18 | rnnandi | 0.1798 |
+| 19 | ahoblitz | 0.1605 |
+| 20 | suuii | 0.1586 |
+| 21 | yunkuang0329 | 0.1586 |
 
 
 </details>
 
 
 <details>
-<summary><strong>tur</strong> (18 submissions)</summary>
+<summary><strong>tur</strong> (19 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2557,21 +2583,22 @@
 | 8 | boon_ | 0.4937 |
 | 9 | maggam | 0.4904 |
 | 10 | julio_fuganti | 0.4886 |
-| 11 | pskadasi | 0.4656 |
-| 12 | suuii | 0.4633 |
-| 13 | yunkuang0329 | 0.4633 |
-| 14 | samah-daniyal | 0.4599 |
-| 15 | rnnandi | 0.4151 |
-| 16 | vorsanigo | 0.4140 |
-| 17 | dominikmacko | 0.4125 |
-| 18 | ahoblitz | 0.2345 |
+| 11 | hidetsune | 0.4662 |
+| 12 | pskadasi | 0.4656 |
+| 13 | suuii | 0.4633 |
+| 14 | yunkuang0329 | 0.4633 |
+| 15 | samah-daniyal | 0.4599 |
+| 16 | rnnandi | 0.4151 |
+| 17 | vorsanigo | 0.4140 |
+| 18 | dominikmacko | 0.4125 |
+| 19 | ahoblitz | 0.2345 |
 
 
 </details>
 
 
 <details>
-<summary><strong>urd</strong> (19 submissions)</summary>
+<summary><strong>urd</strong> (21 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2587,21 +2614,23 @@
 | 9 | boon_ | 0.7997 |
 | 10 | abaruah | 0.7987 |
 | 11 | sujal007 | 0.7987 |
-| 12 | rnnandi | 0.7822 |
-| 13 | vorsanigo | 0.7795 |
-| 14 | samah-daniyal | 0.7768 |
-| 15 | suuii | 0.7562 |
-| 16 | yunkuang0329 | 0.7562 |
-| 17 | maggam | 0.7316 |
-| 18 | ahoblitz | 0.6051 |
-| 19 | pskadasi | 0.5606 |
+| 12 | hidetsune | 0.7835 |
+| 13 | rnnandi | 0.7822 |
+| 14 | vorsanigo | 0.7795 |
+| 15 | samah-daniyal | 0.7768 |
+| 16 | suuii | 0.7562 |
+| 17 | yunkuang0329 | 0.7562 |
+| 18 | maggam | 0.7316 |
+| 19 | alishba-wazir | 0.7267 |
+| 20 | ahoblitz | 0.6051 |
+| 21 | pskadasi | 0.5606 |
 
 
 </details>
 
 
 <details>
-<summary><strong>zho</strong> (21 submissions)</summary>
+<summary><strong>zho</strong> (22 submissions)</summary>
 
 
 | rank | Username | score |
@@ -2621,12 +2650,15 @@
 | 13 | hydrophyte | 0.5675 |
 | 14 | vorsanigo | 0.5588 |
 | 15 | rnnandi | 0.5403 |
-| 16 | samah-daniyal | 0.5248 |
-| 17 | sujal007 | 0.5101 |
-| 18 | dominikmacko | 0.4912 |
-| 19 | maggam | 0.4283 |
-| 20 | julio_fuganti | 0.3888 |
-| 21 | ahoblitz | 0.1234 |
+| 16 | hidetsune | 0.5315 |
+| 17 | samah-daniyal | 0.5248 |
+| 18 | sujal007 | 0.5101 |
+| 19 | dominikmacko | 0.4912 |
+| 20 | maggam | 0.4283 |
+| 21 | julio_fuganti | 0.3888 |
+| 22 | ahoblitz | 0.1234 |
 
 
 </details>
+
+
