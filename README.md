@@ -1746,6 +1746,38 @@
 
 </details>
 
+<details>
+<summary><strong>pan</strong> (24 submissions)</summary>
+
+| rank | Username | score |
+|---|---|---|
+| 1 | wz0101 | 0.5526 |
+| 2 | sujal007 | 0.5243 |
+| 3 | boon_ | 0.5031 |
+| 4 | dinxiang | 0.4835 |
+| 5 | sanjerine | 0.4785 |
+| 6 | abdullah_415 | 0.4715 |
+| 7 | howard | 0.4677 |
+| 8 | samah-daniyal | 0.4627 |
+| 9 | pskadasi | 0.4555 |
+| 10 | sharmilaupa | 0.4539 |
+| 11 | sandeepkumar13 | 0.4259 |
+| 12 | absoluking | 0.4237 |
+| 13 | maggam | 0.4237 |
+| 14 | suuii | 0.4206 |
+| 15 | hydrophyte | 0.4205 |
+| 16 | polarizedteam | 0.4171 |
+| 17 | yunkuang0329 | 0.4117 |
+| 18 | vorsanigo | 0.3957 |
+| 19 | julio_fuganti | 0.3928 |
+| 20 | rnnandi | 0.3811 |
+| 21 | dominikmacko | 0.3734 |
+| 22 | asbichi362 | 0.3332 |
+| 23 | ahoblitz | 0.2514 |
+| 24 | samanj | 0.1538 |
+
+</details>
+
 
 <details>
 <summary><strong>pol</strong> (26 submissions)</summary>
