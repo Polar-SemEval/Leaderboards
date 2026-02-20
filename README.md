@@ -934,7 +934,7 @@
 
 
 <details>
-<summary><strong>spa</strong> (49 submissions)</summary>
+<summary><strong>spa</strong> (50 submissions)</summary>
 
 
 | rank | Username | score |
@@ -983,11 +983,12 @@
 | 42 | samah-daniyal | 0.7408 |
 | 43 | declan-booth | 0.7384 |
 | 44 | wangkongqiang | 0.7155 |
-| 45 | polarizedteam | 0.6955 |
-| 46 | zhangpeng | 0.6711 |
-| 47 | databees | 0.6532 |
-| 48 | ahoblitz | 0.5900 |
-| 49 | maggam | 0.5001 |
+| 45 | brunoruizjuar | 0.7073 |
+| 46 | polarizedteam | 0.6955 |
+| 47 | zhangpeng | 0.6711 |
+| 48 | databees | 0.6532 |
+| 49 | ahoblitz | 0.5900 |
+| 50 | maggam | 0.5001 |
 
 
 </details>
