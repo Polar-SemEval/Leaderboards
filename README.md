@@ -73,6 +73,7 @@
 | 33 | rnnandi | 0.7296 |
 | 34 | taien | 0.7217 |
 | 35 | hidetsune | 0.7182 |
+| -- | POLAR Baseline | 0.7151 |
 | 36 | yunkuang0329 | 0.6891 |
 | 37 | maggam | 0.6811 |
 | 38 | suuii | 0.6810 |
@@ -130,6 +131,7 @@
 | 37 | vorsanigo | 0.7986 |
 | 38 | namdang_2006 | 0.7969 |
 | 39 | rnnandi | 0.7968 |
+| -- | POLAR Baseline | 0.7957 |
 | 40 | aatman | 0.7928 |
 | 41 | samanj | 0.7699 |
 | 42 | pskadasi | 0.7690 |
@@ -150,6 +152,7 @@
 | 1 | howard | 0.8625 |
 | 2 | arpita_mallik | 0.8582 |
 | 3 | dinxiang | 0.8538 |
+| -- | POLAR Baseline | 0.8528 |
 | 4 | shaan | 0.8466 |
 | 5 | shuvodwip_saha | 0.8463 |
 | 6 | databees | 0.8449 |
@@ -247,6 +250,7 @@
 | 38 | aatman | 0.6918 |
 | 39 | rnnandi | 0.6882 |
 | 40 | vorsanigo | 0.6745 |
+| -- | POLAR Baseline | 0.6714 |
 | 41 | databees | 0.6702 |
 | 42 | hidetsune | 0.6693 |
 | 43 | maggam | 0.6650 |
@@ -308,6 +312,7 @@
 | 43 | hydrophyte | 0.7806 |
 | 44 | wangkongqiang | 0.7805 |
 | 45 | namdang_2006 | 0.7803 |
+| -- | POLAR Baseline | 0.7802 |
 | 46 | samah-daniyal | 0.7743 |
 | 47 | ashraf_cou | 0.7729 |
 | 48 | teagrjohnson | 0.7724 |
@@ -334,6 +339,7 @@
 
 | rank | Username | score |
 |---|---|---|
+| -- | POLAR Baseline | 0.8424 |
 | 1 | hidetsune | 0.8348 |
 | 2 | taien | 0.8314 |
 | 3 | maziarkiani | 0.8308 |
@@ -414,6 +420,7 @@
 | 22 | howard | 0.7829 |
 | 23 | milad | 0.7787 |
 | 24 | namdang_2006 | 0.7771 |
+| -- | POLAR Baseline | 0.7753 |
 | 25 | rnnandi | 0.7731 |
 | 26 | dinxiang | 0.7679 |
 | 27 | sharmilaupa | 0.7672 |
@@ -488,6 +495,7 @@
 | 40 | namdang_2006 | 0.7748 |
 | 41 | pawan2411 | 0.7726 |
 | 42 | amatk | 0.7432 |
+| -- | POLAR Baseline | 0.7379 |
 | 43 | samanj | 0.7348 |
 | 44 | atharva7-g | 0.7208 |
 | 45 | polarizedteam | 0.6726 |																							
@@ -506,6 +514,7 @@
 | rank | Username | score |
 |---|---|---|
 | 1 | dominikmacko | 0.7303 |
+| -- | POLAR Baseline | 0.6773 |
 | 2 | stefana | 0.6720 |
 | 3 | abdullah_415 | 0.6714 |
 | 4 | skray | 0.6714 |
@@ -588,6 +597,7 @@
 | 26 | pfr812 | 0.7090 |
 | 27 | abdullah_415 | 0.7031 |
 | 28 | pskadasi | 0.6645 |
+| -- | POLAR Baseline | 0.6592 |
 | 29 | arampageos | 0.6495 |
 | 30 | dinxiang | 0.6462 |
 | 31 | dominikmacko | 0.6293 |
@@ -653,6 +663,7 @@
 | 37 | suuii | 0.8391 |
 | 38 | rnnandi | 0.8382 |
 | 39 | samanj | 0.8382 |
+| -- | POLAR Baseline | 0.8210 |
 | 40 | maggam | 0.7653 |
 | 41 | ahoblitz | 0.6070 |
 | 42 | polarizedteam | 0.5300 |
@@ -703,6 +714,7 @@
 | 34 | rnnandi | 0.8858 |
 | 35 | suuii | 0.8837 |
 | 36 | maziarkiani | 0.8815 |
+| -- | POLAR Baseline | 0.8798 |
 | 37 | jarvis_chen | 0.8793 |
 | 38 | aatman | 0.8769 |
 | 39 | boon_ | 0.8723 |
@@ -748,6 +760,7 @@
 | 23 | skray | 0.7805 |
 | 24 | dinxiang | 0.7786 |
 | 25 | giobigpt | 0.7778 |
+| -- | POLAR Baseline | 0.7765 |
 | 26 | adamovita | 0.7736 |
 | 27 | priyanshumittal | 0.7708 |
 | 28 | hidetsune | 0.7685 |
@@ -786,6 +799,7 @@
 | 5 | wz0101 | 0.7985 |
 | 6 | adamovita | 0.7960 |
 | 7 | pskadasi | 0.7946 |
+| -- | POLAR Baseline | 0.7898 |
 | 8 | suuii | 0.7872 |
 | 9 | hydrophyte | 0.7859 |
 | 10 | boon_ | 0.7787 |
@@ -875,6 +889,7 @@
 | 38 | vorsanigo | 0.7723 |
 | 39 | sandeepkumar13 | 0.7721 |
 | 40 | rnnandi | 0.7562 |
+| -- | POLAR Baseline | 0.7241 |
 | 41 | maggam | 0.6234 |
 | 42 | polarizedteam | 0.6052 |																								
 | 43 | ahoblitz | 0.5734 |
@@ -928,6 +943,7 @@
 | 37 | rnnandi | 0.7545 |
 | 38 | vorsanigo | 0.7535 |
 | 39 | hidetsune | 0.7459 |
+| -- | POLAR Baseline | 0.7457 |
 | 40 | taien | 0.7453 |
 | 41 | polarizedteam | 0.6275 |
 | 42 | ahoblitz | 0.5839 |
@@ -986,6 +1002,7 @@
 | 41 | hidetsune | 0.7415 |
 | 42 | samah-daniyal | 0.7408 |
 | 43 | declan-booth | 0.7384 |
+| -- | POLAR Baseline | 0.7266 |
 | 44 | wangkongqiang | 0.7155 |
 | 45 | brunoruizjuar | 0.7073 |
 | 46 | polarizedteam | 0.6955 |
@@ -1042,6 +1059,7 @@
 | 36 | dominikmacko | 0.7658 |
 | 37 | sharmilaupa | 0.7578 |
 | 38 | arampageos | 0.7573 |
+| -- | POLAR Baseline | 0.7571 |
 | 39 | joshualee2 | 0.7470 |
 | 40 | pskadasi | 0.7425 |
 | 41 | jarvis_chen | 0.7413 |
@@ -1092,6 +1110,7 @@
 | 31 | vinaybabu | 0.8668 |
 | 32 | namdang_2006 | 0.8658 |
 | 33 | arampageos | 0.8655 |
+| -- | POLAR Baseline | 0.644 |
 | 34 | milad | 0.8549 |
 | 35 | joshualee2 | 0.8547 |
 | 36 | rnnandi | 0.8541 |
@@ -1154,6 +1173,7 @@
 | 37 | aatman | 0.7531 |
 | 38 | vorsanigo | 0.7497 |
 | 39 | samanj | 0.7349 |
+| -- | POLAR Baseline | 0.6957 |
 | 40 | polarizedteam | 0.6301 |
 | 41 | ahoblitz | 0.6118 |
 | 42 | maggam | 0.5939 |
@@ -1176,6 +1196,7 @@
 | 6 | julio_fuganti | 0.7930 |
 | 7 | giobigpt | 0.7918 |
 | 8 | hydrophyte | 0.7894 |
+| -- | POLAR Baseline | 0.7890 |
 | 9 | samah-daniyal | 0.7874 |
 | 10 | milad | 0.7867 |
 | 11 | abdullah_415 | 0.7866 |
@@ -1264,6 +1285,7 @@
 | 37 | irinapatularu | 0.8759 |
 | 38 | ashraf_cou | 0.8757 |
 | 39 | namdang_2006 | 0.8734 |
+| -- | POLAR Baseline | 0.8691 |
 | 40 | samanj | 0.8651 |
 | 41 | vorsanigo | 0.8588 |
 | 42 | sandeepkumar13 | 0.8551 |
@@ -1310,6 +1332,7 @@
 | 20 | vorsanigo | 0.4666 |
 | 21 | yunkuang0329 | 0.4142 |
 | 22 | ahoblitz | 0.4050 |
+| -- | POLAR Baseline | 0.3716 |
 | 23 | suuii | 0.3190 |
 | 24 | asbichi362 | 0.2968 |
 | 25 | samanj | 0.0964 |
@@ -1347,6 +1370,7 @@
 | 21 | yunkuang0329 | 0.5360 |
 | 22 | a_djamai | 0.5292 |
 | 23 | suuii | 0.5257 |
+| -- | POLAR Baseline | 0.4855 |
 | 24 | giobigpt | 0.4649 |
 | 25 | asbichi362 | 0.4336 |
 | 26 | ahoblitz | 0.2938 |
@@ -1380,6 +1404,7 @@
 | 16 | dominikmacko | 0.3050 |
 | 17 | vorsanigo | 0.2965 |
 | 18 | rnnandi | 0.2914 |
+| -- | POLAR Baseline | 0.2887 |
 | 19 | yunkuang0329 | 0.2699 |
 | 20 | arpita_mallik | 0.2668 |
 | 21 | polarizedteam | 0.2631 |
@@ -1430,6 +1455,7 @@
 | 25 | vorsanigo | 0.4459 |
 | 26 | ahoblitz | 0.4207 |
 | 27 | suuii | 0.4168 |
+| -- | POLAR Baseline | 0.4078 |
 | 28 | samanj | 0.3324 |
 
 
@@ -1476,6 +1502,7 @@
 | 32 | asbichi362 | 0.3812 |
 | 33 | samanj | 0.3766 |
 | 34 | oluwasegun | 0.3402 |
+| -- | POLAR Baseline | 0.3333 |
 | 35 | teagrjohnson | 0.3322 |
 | 36 | ahoblitz | 0.3256 |
 
@@ -1513,6 +1540,7 @@
 | 22 | howard | 0.5464 |
 | 23 | dominikmacko | 0.5250 |
 | 24 | yunkuang0329 | 0.5228 |
+| -- | POLAR Baseline | 0.4626 |
 | 25 | suuii | 0.4519 |
 | 26 | maggam | 0.4378 |
 | 27 | ahoblitz | 0.3263 |
@@ -1545,6 +1573,7 @@
 | 16 | absoluking | 0.2932 |
 | 17 | faisalm93 | 0.2346 |
 | 18 | hidetsune | 0.2321 |
+| -- | POLAR Baseline | 0.2038 |
 | 19 | rnnandi | 0.1970 |
 | 20 | dominikmacko | 0.1689 |
 | 21 | oluwasegun | 0.1579 |
@@ -1569,6 +1598,7 @@
 | 1 | wz0101 | 0.8073 |
 | 2 | dinxiang | 0.8013 |
 | 3 | absoluking | 0.7932 |
+| -- | POLAR Baseline | 0.7911 |
 | 4 | abdullah_415 | 0.7898 |
 | 5 | sanjerine | 0.7846 |
 | 6 | howard | 0.7825 |
@@ -1613,6 +1643,7 @@
 | 4 | giobigpt | 0.4692 |
 | 5 | wz0101 | 0.4667 |
 | 6 | ahoblitz | 0.4580 |
+| -- | POLAR Baseline | 0.3759 |
 | 7 | dinxiang | 0.3673 |
 | 8 | pskadasi | 0.3409 |
 | 9 | hydrophyte | 0.3186 |
@@ -1657,6 +1688,7 @@
 | 11 | boon_ | 0.6425 |
 | 12 | vorsanigo | 0.6415 |
 | 13 | dominikmacko | 0.6323 |
+| -- | POLAR Baseline | 0.6268 |
 | 14 | polarizedteam | 0.6167 |
 | 15 | sandeepkumar13 | 0.6140 |
 | 16 | julio_fuganti | 0.6085 |
@@ -1700,6 +1732,7 @@
 | 18 | polarizedteam | 0.6132 |
 | 19 | hidetsune | 0.5747 |
 | 20 | maggam | 0.4780 |
+| -- | POLAR Baseline | 0.4772 |
 | 21 | asbichi362 | 0.4554 |
 | 22 | yunkuang0329 | 0.3998 |
 | 23 | suuii | 0.2908 |
@@ -1737,6 +1770,7 @@
 | 19 | samah-daniyal | 0.7507 |
 | 20 | hydrophyte | 0.7502 |
 | 21 | ilinkaa | 0.7409 |
+| -- | POLAR Baseline | 0.7219 |
 | 22 | polarizedteam | 0.7180 |
 | 23 | yunkuang0329 | 0.6844 |
 | 24 | maggam | 0.6368 |
@@ -1761,6 +1795,7 @@
 | 4 | wz0101 | 0.5769 |
 | 5 | hydrophyte | 0.5619 |
 | 6 | julio_fuganti | 0.5614 |
+| -- | POLAR Baseline | 0.5600 |
 | 7 | sanjerine | 0.5549 |
 | 8 | sharmilaupa | 0.5426 |
 | 9 | pskadasi | 0.5394 |
@@ -1812,6 +1847,7 @@
 | 19 | julio_fuganti | 0.3928 |
 | 20 | rnnandi | 0.3811 |
 | 21 | dominikmacko | 0.3734 |
+| -- | POLAR Baseline | 0.3650 |
 | 22 | asbichi362 | 0.3332 |
 | 23 | ahoblitz | 0.2514 |
 | 24 | samanj | 0.1538 |
@@ -1848,6 +1884,7 @@
 | 21 | ilinkaa | 0.4721 |
 | 22 | vorsanigo | 0.4577 |
 | 23 | suuii | 0.4570 |
+| -- | POLAR Baseline | 0.4491 |
 | 24 | giobigpt | 0.4207 |
 | 25 | asbichi362 | 0.3842 |
 | 26 | ahoblitz | 0.2935 |
@@ -1867,6 +1904,7 @@
 | 2 | wz0101 | 0.6186 |
 | 3 | howard | 0.6166 |
 | 4 | pskadasi | 0.6023 |
+| -- | POLAR Baseline | 0.5904 |
 | 5 | yunkuang0329 | 0.5903 |
 | 6 | sanjerine | 0.5745 |
 | 7 | julio_fuganti | 0.5723 |
@@ -1922,6 +1960,7 @@
 | 19 | hidetsune | 0.6121 |
 | 20 | boon_ | 0.6118 |
 | 21 | polarizedteam | 0.6004 |
+| -- | POLAR Baseline | 0.5935 |
 | 22 | samanj | 0.5842 |
 | 23 | asbichi362 | 0.5556 |
 | 24 | yunkuang0329 | 0.5545 |
@@ -1957,6 +1996,7 @@
 | 14 | samah-daniyal | 0.4733 |
 | 15 | vorsanigo | 0.4700 |
 | 16 | rnnandi | 0.4443 |
+| -- | POLAR Baseline | 0.4417 |
 | 17 | julio_fuganti | 0.4268 |
 | 18 | dominikmacko | 0.4226 |
 | 19 | absoluking | 0.4204 |
@@ -1994,6 +2034,7 @@
 | 13 | howard | 0.3931 |
 | 14 | polarizedteam | 0.3918 |
 | 15 | absoluking | 0.3541 |
+| -- | POLAR Baseline | 0.3145 |
 | 16 | abaruah | 0.3134 |
 | 17 | sanjerine | 0.3049 |
 | 18 | maggam | 0.2832 |
@@ -2039,6 +2080,7 @@
 | 20 | sujal007 | 0.5438 |
 | 21 | vorsanigo | 0.5187 |
 | 22 | polarizedteam | 0.4849 |
+| -- | POLAR Baseline | 0.4708 |
 | 23 | giobigpt | 0.4708 |
 | 24 | asbichi362 | 0.4319 |
 | 25 | ahoblitz | 0.3448 |
@@ -2077,6 +2119,7 @@
 | 21 | sanjerine | 0.7314 |
 | 22 | alishba-wazir | 0.7268 |
 | 23 | yunkuang0329 | 0.7183 |
+| -- | POLAR Baseline | 0.7127 |
 | 24 | asbichi362 | 0.7073 |
 | 25 | rnnandi | 0.7071 |
 | 26 | suuii | 0.6750 |
@@ -2119,6 +2162,7 @@
 | 22 | vorsanigo | 0.7256 |
 | 23 | polarizedteam | 0.7119 |
 | 24 | hidetsune | 0.7082 |
+| -- | POLAR Baseline | 0.6697 |
 | 25 | suuii | 0.6381 |
 | 26 | maggam | 0.6208 |
 | 27 | asbichi362 | 0.5922 |
@@ -2154,6 +2198,7 @@
 | 10 | hidetsune | 0.5022 |
 | 11 | samah-daniyal | 0.4968 |
 | 12 | julio_fuganti | 0.4909 |
+| -- | POLAR Baseline | 0.4433 |
 | 13 | maggam | 0.4423 |
 | 14 | dominikmacko | 0.4310 |
 | 15 | rnnandi | 0.4094 |
@@ -2190,6 +2235,7 @@
 | 16 | dominikmacko | 0.5157 |
 | 17 | rnnandi | 0.5105 |
 | 18 | vorsanigo | 0.4999 |
+| -- | POLAR Baseline | 0.3902 |
 | 19 | ahoblitz | 0.2146 |
 
 
@@ -2222,6 +2268,7 @@
 | 18 | yunkuang0329 | 0.1198 |
 | 19 | rnnandi | 0.1131 |
 | 20 | vorsanigo | 0.1064 |
+| -- | POLAR Baseline | 0.0868 |
 | 21 | ahoblitz | 0.0769 |
 
 
@@ -2252,6 +2299,7 @@
 | 16 | suuii | 0.4010 |
 | 17 | yunkuang0329 | 0.4010 |
 | 18 | vorsanigo | 0.3890 |
+| -- | POLAR Baseline | 0.3485 |
 | 19 | ahoblitz | 0.2332 |
 
 
@@ -2285,6 +2333,7 @@
 | 19 | suuii | 0.4222 |
 | 20 | yunkuang0329 | 0.4222 |
 | 21 | oluwasegun | 0.4149 |
+| -- | POLAR Baseline | 0.4100 |
 | 22 | rnnandi | 0.3943 |
 | 23 | dominikmacko | 0.3697 |
 | 24 | saikartheek | 0.2127 |
@@ -2318,6 +2367,7 @@
 | 16 | pskadasi | 0.3259 |
 | 17 | dominikmacko | 0.3208 |
 | 18 | maggam | 0.3127 |
+| -- | POLAR Baseline | 0.2004 |
 | 19 | ahoblitz | 0.1921 |
 
 
@@ -2350,7 +2400,7 @@
 | 18 | vorsanigo | 0.0454 |
 | 19 | ahoblitz | 0.0178 |
 | 20 | dominikmacko | 0.0000 |
-
+| -- | POLAR Baseline | 0.0000 |
 
 </details>
 
@@ -2366,6 +2416,7 @@
 | 3 | abdullah_415 | 0.7587 |
 | 4 | sharmilaupa | 0.7510 |
 | 5 | boon_ | 0.7488 |
+| -- | POLAR Baseline | 0.7456 |
 | 6 | dominikmacko | 0.7453 |
 | 7 | hydrophyte | 0.7413 |
 | 8 | sujal007 | 0.7402 |
@@ -2407,6 +2458,7 @@
 | 12 | vorsanigo | 0.3006 |
 | 13 | hidetsune | 0.2635 |
 | 14 | dominikmacko | 0.2482 |
+| -- | POLAR Baseline | 0.2348 |
 | 15 | suuii | 0.2248 |
 | 16 | yunkuang0329 | 0.2248 |
 | 17 | rnnandi | 0.2161 |
@@ -2436,6 +2488,7 @@
 | 11 | happynewyear | 0.6293 |
 | 12 | rnnandi | 0.6226 |
 | 13 | abaruah | 0.6013 |
+| -- | POLAR Baseline | 0.6095 |
 | 14 | samah-daniyal | 0.5821 |
 | 15 | dominikmacko | 0.5669 |
 | 16 | maggam | 0.5524 |
@@ -2470,6 +2523,7 @@
 | 14 | vorsanigo | 0.1897 |
 | 15 | rnnandi | 0.1797 |
 | 16 | abaruah | 0.1522 |
+| -- | POLAR Baseline | 0.1314 |
 | 17 | dominikmacko | 0.1227 |
 | 18 | vinaybabu | 0.1196 |
 | 19 | suuii | 0.0701 |
@@ -2505,6 +2559,7 @@
 | 17 | samah-daniyal | 0.4272 |
 | 18 | abaruah | 0.4166 |
 | 19 | maggam | 0.3842 |
+| -- | POLAR Baseline | 0.3841 |
 | 20 | ahoblitz | 0.2359 |
 
 
@@ -2528,6 +2583,7 @@
 | 9 | julio_fuganti | 0.4794 |
 | 10 | pskadasi | 0.4706 |
 | 11 | happynewyear | 0.4656 |
+| -- | POLAR Baseline | 0.4561 |
 | 12 | samah-daniyal | 0.4520 |
 | 13 | maggam | 0.4456 |
 | 14 | vorsanigo | 0.4417 |
@@ -2561,6 +2617,7 @@
 | 10 | sujal007 | 0.5280 |
 | 11 | suuii | 0.5150 |
 | 12 | yunkuang0329 | 0.5150 |
+| -- | POLAR Baseline | 0.5088 |
 | 13 | rnnandi | 0.5002 |
 | 14 | vorsanigo | 0.4860 |
 | 15 | pskadasi | 0.4844 |
@@ -2595,6 +2652,7 @@
 | 13 | abaruah | 0.2780 |
 | 14 | vorsanigo | 0.2419 |
 | 15 | maggam | 0.2260 |
+| -- | POLAR Baseline | 0.2205 |
 | 16 | dominikmacko | 0.2143 |
 | 17 | vinaybabu | 0.2102 |
 | 18 | rnnandi | 0.1798 |
@@ -2612,6 +2670,7 @@
 
 | rank | Username | score |
 |---|---|---|
+| -- | POLAR Baseline | 0.6738 |
 | 1 | dinxiang | 0.5381 |
 | 2 | happynewyear | 0.5374 |
 | 3 | abdullah_415 | 0.5151 |
@@ -2657,6 +2716,7 @@
 | 13 | rnnandi | 0.7822 |
 | 14 | vorsanigo | 0.7795 |
 | 15 | samah-daniyal | 0.7768 |
+| -- | POLAR Baseline | 0.7693 |
 | 16 | suuii | 0.7562 |
 | 17 | yunkuang0329 | 0.7562 |
 | 18 | maggam | 0.7316 |
@@ -2689,6 +2749,7 @@
 | 13 | hydrophyte | 0.5675 |
 | 14 | vorsanigo | 0.5588 |
 | 15 | rnnandi | 0.5403 |
+| -- | POLAR Baseline | 0.5316 |
 | 16 | hidetsune | 0.5315 |
 | 17 | samah-daniyal | 0.5248 |
 | 18 | sujal007 | 0.5101 |
