@@ -51,7 +51,7 @@
 | 26 | OZemi | 0.7182 |
 | -- | POLAR Baseline | 0.7151 |
 | 27 | yunkuang0329 | 0.6891 |
-| 28 | ShefFriday | 0.6811 |
+| 28 | maggam | 0.6811 |
 | 29 | mdok-style | 0.6619 |
 | 30 | PolarizedTeam | 0.4423 |
 </details>
@@ -95,7 +95,7 @@
 | -- | POLAR Baseline | 0.7957 |
 | 30 | aatman | 0.7928 |
 | 31 | Lingo Research Group | 0.7690 |
-| 32 | ShefFriday | 0.6863 |
+| 32 | maggam | 0.6863 |
 | 33 | PolarizedTeam | 0.6697 |
 </details>
 
@@ -142,7 +142,7 @@
 | 33 | PolAR Bears | 0.8184 |
 | 34 | OZemi | 0.8053 |
 | 35 | Lingo Research Group | 0.7925 |
-| 36 | ShefFriday | 0.7099 |
+| 36 | maggam | 0.7099 |
 | 37 | PolarizedTeam | 0.6796 |
 </details>
 
@@ -185,7 +185,7 @@
 | -- | POLAR Baseline | 0.6714 |
 | 30 | DataBees | 0.6702 |
 | 31 | OZemi | 0.6693 |
-| 32 | ShefFriday | 0.6650 |
+| 32 | maggam | 0.6650 |
 | 33 | PolarizedTeam | 0.3624 |
 </details>
 
@@ -239,7 +239,7 @@
 | 40 | knix123 | 0.7652 |
 | 41 | OZemi | 0.7636 |
 | 42 | PolarizedTeam | 0.7458 |
-| 43 | ShefFriday | 0.7084 |
+| 43 | maggam | 0.7084 |
 | 44 | zhangpeng | 0.6882 |
 </details>
 
@@ -281,8 +281,8 @@
 | 28 | mdok-style | 0.7690 |
 | 29 | Lingo Research Group | 0.7191 |
 | 30 | PolarizedTeam | 0.7147 |
-| 31 | AI4PC-UTokyo Tsuruoka Lab University | 0.5357 |
-| 32 | ShefFriday | 0.4977 |
+| 31 | suranganaaryal | 0.5357 |
+| 32 | maggam | 0.4977 |
 </details>
 
 
@@ -323,7 +323,7 @@
 | 28 | yunkuang0329 | 0.6993 |
 | 29 | aatman | 0.6919 |
 | 30 | Lingo Research Group | 0.4719 |
-| 31 | ShefFriday | 0.3179 |
+| 31 | maggam | 0.3179 |
 </details>
 
 
@@ -367,8 +367,8 @@
 | -- | POLAR Baseline | 0.7379 |
 | 32 | BITS, Pilani | 0.7208 |
 | 33 | PolarizedTeam | 0.6726 |
-| 34 | AI4PC-UTokyo Tsuruoka Lab University | 0.6503 |
-| 35 | ShefFriday | 0.5236 |
+| 34 | suranganaaryal | 0.6503 |
+| 35 | maggam | 0.5236 |
 </details>
 
 
@@ -405,7 +405,7 @@
 | 24 | PolarizedTeam | 0.5670 |
 | 25 | PSK | 0.5632 |
 | 26 | NYCU-NLP | 0.5527 |
-| 27 | ShefFriday | 0.5394 |
+| 27 | maggam | 0.5394 |
 | 28 | JAT | 0.5393 |
 | 29 | UMUSP | 0.5011 |
 | 30 | OZemi | 0.4981 |
@@ -451,7 +451,7 @@
 | 28 | yunkuang0329 | 0.5747 |
 | 29 | Sagarmatha | 0.5656 |
 | 30 | PolarizedTeam | 0.4758 |
-| 31 | ShefFriday | 0.1440 |
+| 31 | maggam | 0.1440 |
 </details>
 
 
@@ -490,7 +490,7 @@
 | 27 | AIvengers | 0.8443 |
 | 28 | yunkuang0329 | 0.8394 |
 | -- | POLAR Baseline | 0.8210 |
-| 29 | ShefFriday | 0.7653 |
+| 29 | maggam | 0.7653 |
 | 30 | PolarizedTeam | 0.5300 |
 </details>
 
@@ -532,8 +532,8 @@
 | 28 | aatman | 0.8769 |
 | 29 | AIvengers | 0.8723 |
 | 30 | yunkuang0329 | 0.8712 |
-| 31 | ShefFriday | 0.7267 |
-| 32 | AI4PC-UTokyo Tsuruoka Lab University | 0.6246 |
+| 31 | maggam | 0.7267 |
+| 32 | suranganaaryal | 0.6246 |
 | 33 | PolarizedTeam | 0.5093 |
 </details>
 
@@ -576,7 +576,7 @@
 | 29 | Sagarmatha | 0.7541 |
 | 30 | taien | 0.7309 |
 | 31 | yunkuang0329 | 0.6897 |
-| 32 | ShefFriday | 0.6365 |
+| 32 | maggam | 0.6365 |
 | 33 | PolarizedTeam | 0.4172 |
 </details>
 
@@ -618,9 +618,9 @@
 | 28 | OZemi | 0.7338 |
 | 29 | yunkuang0329 | 0.7220 |
 | 30 | JAT | 0.7074 |
-| 31 | ShefFriday | 0.6994 |
+| 31 | maggam | 0.6994 |
 | 32 | PolarizedTeam | 0.6322 |
-| 33 | AI4PC-UTokyo Tsuruoka Lab University | 0.5404 |
+| 33 | suranganaaryal | 0.5404 |
 </details>
 
 
@@ -660,9 +660,9 @@
 | 28 | DigiS-FBK | 0.7723 |
 | 29 | PolarMind | 0.7721 |
 | -- | POLAR Baseline | 0.7241 |
-| 30 | ShefFriday | 0.6234 |
+| 30 | maggam | 0.6234 |
 | 31 | PolarizedTeam | 0.6052 |
-| 32 | AI4PC-UTokyo Tsuruoka Lab University | 0.4866 |
+| 32 | suranganaaryal | 0.4866 |
 </details>
 
 
@@ -703,7 +703,7 @@
 | -- | POLAR Baseline | 0.7457 |
 | 29 | taien | 0.7453 |
 | 30 | PolarizedTeam | 0.6275 |
-| 31 | ShefFriday | 0.5487 |
+| 31 | maggam | 0.5487 |
 </details>
 
 
@@ -749,7 +749,7 @@
 | 33 | PolarizedTeam | 0.6955 |
 | 34 | zhangpeng | 0.6711 |
 | 35 | DataBees | 0.6532 |
-| 36 | ShefFriday | 0.5001 |
+| 36 | maggam | 0.5001 |
 </details>
 
 
@@ -790,7 +790,7 @@
 | -- | POLAR Baseline | 0.7571 |
 | 29 | joshualee2 | 0.7470 |
 | 30 | Lingo Research Group | 0.7425 |
-| 31 | ShefFriday | 0.6471 |
+| 31 | maggam | 0.6471 |
 </details>
 
 
@@ -833,7 +833,7 @@
 | 31 | Lingo Research Group | 0.7712 |
 | 32 | PolarizedTeam | 0.6557 |
 | -- | POLAR Baseline | 0.644 |
-| 33 | ShefFriday | 0.4957 |
+| 33 | maggam | 0.4957 |
 </details>
 
 
@@ -873,8 +873,8 @@
 | 28 | DigiS-FBK | 0.7497 |
 | -- | POLAR Baseline | 0.6957 |
 | 29 | PolarizedTeam | 0.6301 |
-| 30 | ShefFriday | 0.5939 |
-| 31 | AI4PC-UTokyo Tsuruoka Lab University | 0.4787 |
+| 30 | maggam | 0.5939 |
+| 31 | suranganaaryal | 0.4787 |
 </details>
 
 
@@ -917,8 +917,8 @@
 | 30 | UPR | 0.7393 |
 | 31 | AIvengers | 0.7314 |
 | 32 | PolarizedTeam | 0.6541 |
-| 33 | AI4PC-UTokyo Tsuruoka Lab University | 0.5999 |
-| 34 | ShefFriday | 0.5785 |
+| 33 | suranganaaryal | 0.5999 |
+| 34 | maggam | 0.5785 |
 | 35 | BITS, Pilani | 0.2995 |
 </details>
 
@@ -960,9 +960,9 @@
 | 28 | DigiS-FBK | 0.8588 |
 | 29 | PolarMind | 0.8551 |
 | 30 | OZemi | 0.8544 |
-| 31 | ShefFriday | 0.6983 |
+| 31 | maggam | 0.6983 |
 | 32 | PolarizedTeam | 0.6899 |
-| 33 | AI4PC-UTokyo Tsuruoka Lab University | 0.5344 |
+| 33 | suranganaaryal | 0.5344 |
 </details>
 
 
@@ -994,7 +994,7 @@
 | 14 | PolarizedTeam | 0.5155 |
 | 15 | mdok-style | 0.5116 |
 | 16 | OZemi | 0.4995 |
-| 17 | ShefFriday | 0.4916 |
+| 17 | maggam | 0.4916 |
 | 18 | YNU-HPCC | 0.4852 |
 | 19 | DigiS-FBK | 0.4666 |
 | 20 | yunkuang0329 | 0.4142 |
@@ -1023,7 +1023,7 @@
 | 12 | MSqrd | 0.6108 |
 | 13 | NASIM LAB | 0.6047 |
 | 14 | PolarMind | 0.5942 |
-| 15 | ShefFriday | 0.5910 |
+| 15 | maggam | 0.5910 |
 | 16 | Sagarmatha | 0.5872 |
 | 17 | OZemi | 0.5770 |
 | 18 | DigiS-FBK | 0.5419 |
@@ -1055,7 +1055,7 @@
 | 11 | Sagarmatha | 0.3332 |
 | 12 | YNU-HPCC | 0.3277 |
 | 13 | NASIM LAB | 0.3240 |
-| 14 | ShefFriday | 0.3128 |
+| 14 | maggam | 0.3128 |
 | 15 | UMUSP | 0.3078 |
 | 16 | mdok-style | 0.3050 |
 | 17 | DigiS-FBK | 0.2965 |
@@ -1081,7 +1081,7 @@
 | 1 | UTokyo Tsuruoka Lab | 0.6200 |
 | 2 | NYCU-NLP | 0.6157 |
 | 3 | Lingo Research Group | 0.5994 |
-| 4 | ShefFriday | 0.5950 |
+| 4 | maggam | 0.5950 |
 | 5 | SMASH | 0.5750 |
 | 6 | YEZE | 0.5733 |
 | 7 | PolaFusion | 0.5615 |
@@ -1127,7 +1127,7 @@
 | 13 | yunkuang0329 | 0.4790 |
 | 14 | MSqrd | 0.4734 |
 | 15 | ILA Polar | 0.4695 |
-| 16 | ShefFriday | 0.4660 |
+| 16 | maggam | 0.4660 |
 | 17 | Aaronbundi | 0.4615 |
 | 18 | NIT-Agartala-NLP-Team | 0.4600 |
 | 19 | NASIM LAB | 0.4581 |
@@ -1173,7 +1173,7 @@
 | 20 | mdok-style | 0.5250 |
 | 21 | yunkuang0329 | 0.5228 |
 | -- | POLAR Baseline | 0.4626 |
-| 22 | ShefFriday | 0.4378 |
+| 22 | maggam | 0.4378 |
 </details>
 
 
@@ -1202,7 +1202,7 @@
 | 17 | OZemi | 0.2321 |
 | -- | POLAR Baseline | 0.2038 |
 | 18 | mdok-style | 0.1689 |
-| 19 | ShefFriday | 0.1325 |
+| 19 | maggam | 0.1325 |
 | 20 | yunkuang0329 | 0.1312 |
 | 21 | PolarizedTeam | 0.1289 |
 | 22 | VGU-M.Tech-AI | 0.0899 |
@@ -1239,7 +1239,7 @@
 | 21 | DigiS-FBK | 0.7128 |
 | 22 | yunkuang0329 | 0.7028 |
 | 23 | PolAR Bears | 0.7008 |
-| 24 | ShefFriday | 0.5974 |
+| 24 | maggam | 0.5974 |
 | 25 | MINDS | 0.2987 |
 </details>
 
@@ -1251,7 +1251,7 @@
 | rank | Username | score |
 |---|---|---|
 | 1 | UTokyo Tsuruoka Lab | 0.5505 |
-| 2 | ShefFriday | 0.5375 |
+| 2 | maggam | 0.5375 |
 | 3 | yunkuang0329 | 0.4836 |
 | 4 | MINDS | 0.4692 |
 | 5 | SMASH | 0.4667 |
@@ -1302,7 +1302,7 @@
 | 17 | Sagarmatha | 0.6014 |
 | 18 | yunkuang0329 | 0.5651 |
 | 19 | OZemi | 0.5010 |
-| 20 | ShefFriday | 0.2719 |
+| 20 | maggam | 0.2719 |
 | 21 | VGU-M.Tech-AI | 0.2289 |
 </details>
 
@@ -1331,7 +1331,7 @@
 | 16 | AIvengers | 0.6382 |
 | 17 | PolarizedTeam | 0.6132 |
 | 18 | OZemi | 0.5747 |
-| 19 | ShefFriday | 0.4780 |
+| 19 | maggam | 0.4780 |
 | -- | POLAR Baseline | 0.4772 |
 | 20 | VGU-M.Tech-AI | 0.4554 |
 | 21 | yunkuang0329 | 0.3998 |
@@ -1366,7 +1366,7 @@
 | -- | POLAR Baseline | 0.7219 |
 | 20 | PolarizedTeam | 0.7180 |
 | 21 | yunkuang0329 | 0.6844 |
-| 22 | ShefFriday | 0.6368 |
+| 22 | maggam | 0.6368 |
 | 23 | VGU-M.Tech-AI | 0.6127 |
 </details>
 
@@ -1392,7 +1392,7 @@
 | 12 | PolaFusion | 0.5148 |
 | 13 | CoPol | 0.5148 |
 | 14 | Sagarmatha | 0.4683 |
-| 15 | ShefFriday | 0.4675 |
+| 15 | maggam | 0.4675 |
 | 16 | mdok-style | 0.4628 |
 | 17 | DigiS-FBK | 0.4597 |
 | 18 | abaruah | 0.4526 |
@@ -1421,7 +1421,7 @@
 | 10 | Lingo Research Group | 0.4555 |
 | 11 | PolarMind | 0.4259 |
 | 12 | YNU-HPCC | 0.4237 |
-| 13 | ShefFriday | 0.4237 |
+| 13 | maggam | 0.4237 |
 | 14 | YEZE | 0.4205 |
 | 15 | PolarizedTeam | 0.4171 |
 | 16 | yunkuang0329 | 0.4117 |
@@ -1449,7 +1449,7 @@
 | 8 | YNU-HPCC | 0.5646 |
 | 9 | CoPol | 0.5628 |
 | 10 | Sagarmatha | 0.5512 |
-| 11 | ShefFriday | 0.5367 |
+| 11 | maggam | 0.5367 |
 | 12 | mdok-style | 0.5350 |
 | 13 | PolaFusion | 0.5348 |
 | 14 | UMUSP | 0.5289 |
@@ -1492,7 +1492,7 @@
 | 17 | PolarMind | 0.4924 |
 | 18 | OZemi | 0.4608 |
 | 19 | ILA Polar | 0.4329 |
-| 20 | ShefFriday | 0.4037 |
+| 20 | maggam | 0.4037 |
 | 21 | MINDS | 0.3911 |
 | 22 | PolarizedTeam | 0.3884 |
 | 23 | VGU-M.Tech-AI | 0.3484 |
@@ -1527,7 +1527,7 @@
 | -- | POLAR Baseline | 0.5935 |
 | 20 | VGU-M.Tech-AI | 0.5556 |
 | 21 | yunkuang0329 | 0.5545 |
-| 22 | ShefFriday | 0.5433 |
+| 22 | maggam | 0.5433 |
 | 23 | MINDS | 0.4723 |
 | 24 | wangkongqiang | 0.4647 |
 | 25 | CoPol | 0.4597 |
@@ -1562,7 +1562,7 @@
 | 19 | PolaFusion | 0.4114 |
 | 20 | yunkuang0329 | 0.3807 |
 | 21 | VGU-M.Tech-AI | 0.3777 |
-| 22 | ShefFriday | 0.3007 |
+| 22 | maggam | 0.3007 |
 </details>
 
 
@@ -1590,7 +1590,7 @@
 | -- | POLAR Baseline | 0.3145 |
 | 16 | abaruah | 0.3134 |
 | 17 | NASIM LAB | 0.3049 |
-| 18 | ShefFriday | 0.2832 |
+| 18 | maggam | 0.2832 |
 | 19 | VGU-M.Tech-AI | 0.2708 |
 | 20 | mdok-style | 0.2573 |
 | 21 | yunkuang0329 | 0.2503 |
@@ -1613,7 +1613,7 @@
 | 6 | MSqrd | 0.5968 |
 | 7 | NASIM LAB | 0.5962 |
 | 8 | YNU-HPCC | 0.5929 |
-| 9 | ShefFriday | 0.5923 |
+| 9 | maggam | 0.5923 |
 | 10 | AIvengers | 0.5916 |
 | 11 | yunkuang0329 | 0.5875 |
 | 12 | PolaFusion | 0.5861 |
@@ -1661,7 +1661,7 @@
 | 22 | yunkuang0329 | 0.7183 |
 | -- | POLAR Baseline | 0.7127 |
 | 23 | VGU-M.Tech-AI | 0.7073 |
-| 24 | ShefFriday | 0.4818 |
+| 24 | maggam | 0.4818 |
 | 25 | MINDS | 0.2515 |
 </details>
 
@@ -1693,7 +1693,7 @@
 | 19 | PolarizedTeam | 0.7119 |
 | 20 | OZemi | 0.7082 |
 | -- | POLAR Baseline | 0.6697 |
-| 21 | ShefFriday | 0.6208 |
+| 21 | maggam | 0.6208 |
 | 22 | VGU-M.Tech-AI | 0.5922 |
 | 23 | MINDS | 0.5086 |
 </details>
@@ -1723,7 +1723,7 @@
 | 10 | MSqrd | 0.4968 |
 | 11 | UMUSP | 0.4909 |
 | -- | POLAR Baseline | 0.4433 |
-| 12 | ShefFriday | 0.4423 |
+| 12 | maggam | 0.4423 |
 | 13 | mdok-style | 0.4310 |
 | 14 | DigiS-FBK | 0.4086 |
 | 15 | suuii | 0.3677 |
@@ -1743,7 +1743,7 @@
 | 5 | PolaFusion | 0.6016 |
 | 6 | AIvengers | 0.5853 |
 | 7 | UMUSP | 0.5846 |
-| 8 | ShefFriday | 0.5800 |
+| 8 | maggam | 0.5800 |
 | 9 | Sagarmatha | 0.5774 |
 | 10 | OZemi | 0.5736 |
 | 11 | suuii | 0.5594 |
@@ -1767,7 +1767,7 @@
 | 4 | AIvengers | 0.2442 |
 | 5 | UMUSP | 0.2366 |
 | 6 | OZemi | 0.2355 |
-| 7 | ShefFriday | 0.2352 |
+| 7 | maggam | 0.2352 |
 | 8 | MSqrd | 0.2327 |
 | 9 | Sagarmatha | 0.2288 |
 | 10 | NYCU-NLP | 0.2139 |
@@ -1789,7 +1789,7 @@
 | rank | Username | score |
 |---|---|---|
 | 1 | NYCU-NLP | 0.5176 |
-| 2 | ShefFriday | 0.5153 |
+| 2 | maggam | 0.5153 |
 | 3 | SMASH | 0.5126 |
 | 4 | Sagarmatha | 0.4978 |
 | 5 | UMUSP | 0.4950 |
@@ -1818,7 +1818,7 @@
 | 3 | SMASH | 0.5070 |
 | 4 | NYCU-NLP | 0.5010 |
 | 5 | YEZE | 0.5003 |
-| 6 | ShefFriday | 0.4959 |
+| 6 | maggam | 0.4959 |
 | 7 | PolaFusion | 0.4905 |
 | 8 | UMUSP | 0.4853 |
 | 9 | OZemi | 0.4838 |
@@ -1855,7 +1855,7 @@
 | 12 | UMUSP | 0.3476 |
 | 13 | Lingo Research Group | 0.3259 |
 | 14 | mdok-style | 0.3208 |
-| 15 | ShefFriday | 0.3127 |
+| 15 | maggam | 0.3127 |
 | -- | POLAR Baseline | 0.2004 |
 </details>
 
@@ -1880,7 +1880,7 @@
 | 11 | happynewyear | 0.1188 |
 | 12 | Lingo Research Group | 0.1111 |
 | 13 | suuii | 0.0828 |
-| 14 | ShefFriday | 0.0752 |
+| 14 | maggam | 0.0752 |
 | 15 | DigiS-FBK | 0.0454 |
 | 16 | mdok-style | 0.0000 |
 </details>
@@ -1906,7 +1906,7 @@
 | 12 | Lingo Research Group | 0.7186 |
 | 13 | MSqrd | 0.7181 |
 | 14 | UMUSP | 0.7109 |
-| 15 | ShefFriday | 0.6981 |
+| 15 | maggam | 0.6981 |
 | 16 | suuii | 0.6947 |
 | 17 | abaruah | 0.6788 |
 | -- | POLAR Baseline | 0.2348 |
@@ -1934,7 +1934,7 @@
 | 12 | OZemi | 0.2635 |
 | 13 | mdok-style | 0.2482 |
 | 14 | suuii | 0.2248 |
-| 15 | ShefFriday | 0.1260 |
+| 15 | maggam | 0.1260 |
 </details>
 
 
@@ -1957,7 +1957,7 @@
 | 11 | abaruah | 0.6013 |
 | 12 | MSqrd | 0.5821 |
 | 13 | mdok-style | 0.5669 |
-| 14 | ShefFriday | 0.5524 |
+| 14 | maggam | 0.5524 |
 | 15 | UMUSP | 0.5351 |
 | 16 | suuii | 0.5122 |
 | -- | POLAR Baseline | 0.1314 |
@@ -1981,7 +1981,7 @@
 | 8 | Lingo Research Group | 0.2490 |
 | 9 | MSqrd | 0.2328 |
 | 10 | UMUSP | 0.2321 |
-| 11 | ShefFriday | 0.2240 |
+| 11 | maggam | 0.2240 |
 | 12 | OZemi | 0.2183 |
 | 13 | DigiS-FBK | 0.1897 |
 | 14 | abaruah | 0.1522 |
@@ -2013,7 +2013,7 @@
 | -- | POLAR Baseline | 0.4561 |
 | 14 | MSqrd | 0.4272 |
 | 15 | abaruah | 0.4166 |
-| 16 | ShefFriday | 0.3842 |
+| 16 | maggam | 0.3842 |
 </details>
 
 
@@ -2035,7 +2035,7 @@
 | 9 | Lingo Research Group | 0.4706 |
 | 10 | happynewyear | 0.4656 |
 | 11 | MSqrd | 0.4520 |
-| 12 | ShefFriday | 0.4456 |
+| 12 | maggam | 0.4456 |
 | 13 | DigiS-FBK | 0.4417 |
 | 14 | zhangpeng | 0.4366 |
 | 15 | suuii | 0.4307 |
@@ -2065,7 +2065,7 @@
 | 13 | MSqrd | 0.4742 |
 | 14 | happynewyear | 0.4660 |
 | 15 | mdok-style | 0.4570 |
-| 16 | ShefFriday | 0.4243 |
+| 16 | maggam | 0.4243 |
 | -- | POLAR Baseline | 0.2205 |
 </details>
 
@@ -2090,7 +2090,7 @@
 | 11 | MSqrd | 0.2906 |
 | 12 | abaruah | 0.2780 |
 | 13 | DigiS-FBK | 0.2419 |
-| 14 | ShefFriday | 0.2260 |
+| 14 | maggam | 0.2260 |
 | 15 | mdok-style | 0.2143 |
 | 16 | PolAR Bears | 0.2102 |
 | 17 | suuii | 0.1586 |
@@ -2111,7 +2111,7 @@
 | 5 | Sagarmatha | 0.5021 |
 | 6 | YEZE | 0.4996 |
 | 7 | AIvengers | 0.4937 |
-| 8 | ShefFriday | 0.4904 |
+| 8 | maggam | 0.4904 |
 | 9 | UMUSP | 0.4886 |
 | 10 | OZemi | 0.4662 |
 | 11 | Lingo Research Group | 0.4656 |
@@ -2142,7 +2142,7 @@
 | 12 | DigiS-FBK | 0.7795 |
 | 13 | MSqrd | 0.7768 |
 | 14 | suuii | 0.7562 |
-| 15 | ShefFriday | 0.7316 |
+| 15 | maggam | 0.7316 |
 | 16 | UPR | 0.7267 |
 | 17 | Lingo Research Group | 0.5606 |
 | -- | POLAR Baseline | 0.5316 |
@@ -2170,7 +2170,7 @@
 | 13 | MSqrd | 0.5248 |
 | 14 | Sagarmatha | 0.5101 |
 | 15 | mdok-style | 0.4912 |
-| 16 | ShefFriday | 0.4283 |
+| 16 | maggam | 0.4283 |
 | 17 | UMUSP | 0.3888 |
 | -- | POLAR Baseline | 0.0000 |
 </details>
