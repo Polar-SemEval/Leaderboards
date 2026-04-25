@@ -741,7 +741,7 @@
 | 26 | PolarMind | 0.7517 |
 | 27 | AIvengers | 0.7497 |
 | 28 | DigiS-FBK | 0.7446 |
-| 29 | victorgs | 0.743 |
+| 29 | victorgs | 0.7430 |
 | 30 | OZemi | 0.7415 |
 | 31 | MSqrd | 0.7408 |
 | 32 | ILab-NLP | 0.7384 |
