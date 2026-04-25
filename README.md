@@ -708,7 +708,7 @@
 
 
 <details>
-<summary><strong>spa</strong> (36 submissions)</summary>
+<summary><strong>spa</strong> (37 submissions)</summary>
 
 
 | rank | Username | score |
@@ -741,15 +741,16 @@
 | 26 | PolarMind | 0.7517 |
 | 27 | AIvengers | 0.7497 |
 | 28 | DigiS-FBK | 0.7446 |
-| 29 | OZemi | 0.7415 |
-| 30 | MSqrd | 0.7408 |
-| 31 | ILab-NLP | 0.7384 |
+| 29 | victorgs | 0.743 |
+| 30 | OZemi | 0.7415 |
+| 31 | MSqrd | 0.7408 |
+| 32 | ILab-NLP | 0.7384 |
 | -- | POLAR Baseline | 0.7266 |
-| 32 | wangkongqiang | 0.7155 |
-| 33 | PolarizedTeam | 0.6955 |
-| 34 | zhangpeng | 0.6711 |
-| 35 | DataBees | 0.6532 |
-| 36 | maggam | 0.5001 |
+| 33 | wangkongqiang | 0.7155 |
+| 34 | PolarizedTeam | 0.6955 |
+| 35 | zhangpeng | 0.6711 |
+| 36 | DataBees | 0.6532 |
+| 37 | maggam | 0.5001 |
 </details>
 
 
