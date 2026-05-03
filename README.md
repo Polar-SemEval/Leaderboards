@@ -50,7 +50,7 @@
 | 25 | taien | 0.7217 |
 | 26 | OZemi | 0.7182 |
 | -- | POLAR Baseline | 0.7151 |
-| 27 | yunkuang0329 | 0.6891 |
+| 27 | CYUT | 0.6891 |
 | 28 | ShefFriday | 0.6811 |
 | 29 | mdok-style | 0.6619 |
 | 30 | PolarizedTeam | 0.4423 |
@@ -66,7 +66,7 @@
 | 1 | UTokyo Tsuruoka Lab | 0.8488 |
 | 2 | PSK | 0.8484 |
 | 3 | NYCU-NLP | 0.8427 |
-| 4 | yunkuang0329 | 0.8399 |
+| 4 | CYUT | 0.8399 |
 | 5 | mdok-style | 0.8348 |
 | 6 | MoMo | 0.8345 |
 | 7 | PolaFusion | 0.8326 |
@@ -137,7 +137,7 @@
 | 28 | taien | 0.8239 |
 | 29 | MINDS | 0.8219 |
 | 30 | JAT | 0.8206 |
-| 31 | yunkuang0329 | 0.8205 |
+| 31 | CYUT | 0.8205 |
 | 32 | UMUSP | 0.8195 |
 | 33 | PolAR Bears | 0.8184 |
 | 34 | OZemi | 0.8053 |
@@ -155,7 +155,7 @@
 |---|---|---|
 | 1 | NYCU-NLP | 0.7608 |
 | 2 | UTokyo Tsuruoka Lab | 0.7531 |
-| 3 | yunkuang0329 | 0.7465 |
+| 3 | CYUT | 0.7465 |
 | 4 | mdok-style | 0.7398 |
 | 5 | Projet Fil Rouge 821 | 0.7324 |
 | 6 | Lingo Research Group | 0.7322 |
@@ -201,7 +201,7 @@
 | 3 | PSK | 0.8177 |
 | 4 | NYCU-NLP | 0.8172 |
 | 5 | UIT Polar | 0.8162 |
-| 6 | yunkuang0329 | 0.8153 |
+| 6 | CYUT | 0.8153 |
 | 7 | AIvengers | 0.8128 |
 | 8 | Lingo Research Group | 0.8098 |
 | 9 | PhatThachDau | 0.8092 |
@@ -278,7 +278,7 @@
 | 24 | PolaFusion | 0.7874 |
 | 25 | NYCU-NLP | 0.7855 |
 | 26 | MoMo | 0.7827 |
-| 27 | yunkuang0329 | 0.7705 |
+| 27 | CYUT | 0.7705 |
 | 28 | mdok-style | 0.7690 |
 | 29 | Lingo Research Group | 0.7191 |
 | 30 | PolarizedTeam | 0.7147 |
@@ -321,7 +321,7 @@
 | 25 | MSqrd | 0.7341 |
 | 26 | joshualee2 | 0.7231 |
 | 27 | DUTH | 0.7054 |
-| 28 | yunkuang0329 | 0.6993 |
+| 28 | CYUT | 0.6993 |
 | 29 | aatman | 0.6919 |
 | 30 | Lingo Research Group | 0.4719 |
 | 31 | ShefFriday | 0.3179 |
@@ -343,7 +343,7 @@
 | 7 | Sagarmatha | 0.8156 |
 | 8 | PolaFusion | 0.8131 |
 | 9 | Semantic Vectors | 0.8111 |
-| 10 | yunkuang0329 | 0.8111 |
+| 10 | CYUT | 0.8111 |
 | 11 | SMASH | 0.8110 |
 | 12 | taien | 0.8109 |
 | 13 | PolAR Bears | 0.8085 |
@@ -384,7 +384,7 @@
 | 2 | StanceLab | 0.6720 |
 | 3 | PolaFusion | 0.6714 |
 | 4 | MoMo | 0.6714 |
-| 5 | yunkuang0329 | 0.6674 |
+| 5 | CYUT | 0.6674 |
 | 6 | DataBees | 0.6502 |
 | 7 | AIvengers | 0.6489 |
 | 8 | PolarMind | 0.6479 |
@@ -449,7 +449,7 @@
 | 25 | Tralaleros | 0.6242 |
 | 26 | MoMo | 0.6231 |
 | 27 | joshualee2 | 0.5749 |
-| 28 | yunkuang0329 | 0.5747 |
+| 28 | CYUT | 0.5747 |
 | 29 | Sagarmatha | 0.5656 |
 | 30 | PolarizedTeam | 0.4758 |
 | 31 | ShefFriday | 0.1440 |
@@ -489,7 +489,7 @@
 | 25 | MINDS | 0.8558 |
 | 26 | DUTH | 0.8535 |
 | 27 | AIvengers | 0.8443 |
-| 28 | yunkuang0329 | 0.8394 |
+| 28 | CYUT | 0.8394 |
 | -- | POLAR Baseline | 0.8210 |
 | 29 | ShefFriday | 0.7653 |
 | 30 | PolarizedTeam | 0.5300 |
@@ -532,7 +532,7 @@
 | -- | POLAR Baseline | 0.8798 |
 | 28 | aatman | 0.8769 |
 | 29 | AIvengers | 0.8723 |
-| 30 | yunkuang0329 | 0.8712 |
+| 30 | CYUT | 0.8712 |
 | 31 | ShefFriday | 0.7267 |
 | 32 | suranganaaryal | 0.6246 |
 | 33 | PolarizedTeam | 0.5093 |
@@ -576,7 +576,7 @@
 | 28 | StanceLab | 0.7577 |
 | 29 | Sagarmatha | 0.7541 |
 | 30 | taien | 0.7309 |
-| 31 | yunkuang0329 | 0.6897 |
+| 31 | CYUT | 0.6897 |
 | 32 | ShefFriday | 0.6365 |
 | 33 | PolarizedTeam | 0.4172 |
 </details>
@@ -617,7 +617,7 @@
 | 26 | taien | 0.7501 |
 | 27 | DUTH | 0.7414 |
 | 28 | OZemi | 0.7338 |
-| 29 | yunkuang0329 | 0.7220 |
+| 29 | CYUT | 0.7220 |
 | 30 | JAT | 0.7074 |
 | 31 | ShefFriday | 0.6994 |
 | 32 | PolarizedTeam | 0.6322 |
@@ -645,7 +645,7 @@
 | 12 | UMUSP | 0.8061 |
 | 13 | MKJ | 0.8061 |
 | 14 | Sagarmatha | 0.8061 |
-| 15 | yunkuang0329 | 0.8058 |
+| 15 | CYUT | 0.8058 |
 | 16 | Tralaleros | 0.8042 |
 | 17 | joshualee2 | 0.8033 |
 | 18 | DUTH | 0.8028 |
@@ -675,7 +675,7 @@
 |---|---|---|
 | 1 | UTokyo Tsuruoka Lab | 0.8303 |
 | 2 | NYCU-NLP | 0.8232 |
-| 3 | yunkuang0329 | 0.8138 |
+| 3 | CYUT | 0.8138 |
 | 4 | SMASH | 0.8084 |
 | 5 | mdok-style | 0.8077 |
 | 6 | PSK | 0.8066 |
@@ -725,7 +725,7 @@
 | 9 | MINDS | 0.7827 |
 | 10 | YEZE | 0.7825 |
 | 11 | Semantic Vectors | 0.7816 |
-| 12 | yunkuang0329 | 0.7790 |
+| 12 | CYUT | 0.7790 |
 | 13 | mdok-style | 0.7788 |
 | 14 | PSK | 0.7788 |
 | 15 | JAT | 0.7765 |
@@ -779,7 +779,7 @@
 | 16 | Semantic Vectors | 0.7798 |
 | 17 | YEZE | 0.7783 |
 | 18 | aatman | 0.7754 |
-| 19 | yunkuang0329 | 0.7750 |
+| 19 | CYUT | 0.7750 |
 | 20 | UMUSP | 0.7746 |
 | 21 | PolarizedTeam | 0.7740 |
 | 22 | MSqrd | 0.7727 |
@@ -831,7 +831,7 @@
 | 27 | DUTH | 0.8655 |
 | 28 | joshualee2 | 0.8547 |
 | 29 | BITS, Pilani | 0.8328 |
-| 30 | yunkuang0329 | 0.8270 |
+| 30 | CYUT | 0.8270 |
 | 31 | Lingo Research Group | 0.7712 |
 | 32 | PolarizedTeam | 0.6557 |
 | -- | POLAR Baseline | 0.644 |
@@ -848,7 +848,7 @@
 | 1 | NYCU-NLP | 0.8329 |
 | 2 | UTokyo Tsuruoka Lab | 0.8303 |
 | 3 | PSK | 0.8092 |
-| 4 | yunkuang0329 | 0.8055 |
+| 4 | CYUT | 0.8055 |
 | 5 | mdok-style | 0.8008 |
 | 6 | Lingo Research Group | 0.7977 |
 | 7 | Projet Fil Rouge 821 | 0.7969 |
@@ -903,7 +903,7 @@
 | 14 | joshualee2 | 0.7779 |
 | 15 | MoMo | 0.7770 |
 | 16 | Tralaleros | 0.7760 |
-| 17 | yunkuang0329 | 0.7758 |
+| 17 | CYUT | 0.7758 |
 | 18 | mdok-style | 0.7743 |
 | 19 | Sagarmatha | 0.7713 |
 | 20 | taien | 0.7713 |
@@ -931,7 +931,7 @@
 
 | rank | Username | score |
 |---|---|---|
-| 1 | yunkuang0329 | 0.9315 |
+| 1 | CYUT | 0.9315 |
 | 2 | UTokyo Tsuruoka Lab | 0.9289 |
 | 3 | NYCU-NLP | 0.9273 |
 | 4 | mdok-style | 0.9237 |
@@ -999,7 +999,7 @@
 | 17 | ShefFriday | 0.4916 |
 | 18 | YNU-HPCC | 0.4852 |
 | 19 | DigiS-FBK | 0.4666 |
-| 20 | yunkuang0329 | 0.4142 |
+| 20 | CYUT | 0.4142 |
 | -- | POLAR Baseline | 0.3716 |
 | 21 | VGU-M.Tech-AI | 0.2968 |
 </details>
@@ -1030,7 +1030,7 @@
 | 17 | OZemi | 0.5770 |
 | 18 | DigiS-FBK | 0.5419 |
 | 19 | PolarizedTeam | 0.5396 |
-| 20 | yunkuang0329 | 0.5360 |
+| 20 | CYUT | 0.5360 |
 | 21 | NAMAA | 0.5292 |
 | -- | POLAR Baseline | 0.4855 |
 | 22 | MINDS | 0.4649 |
@@ -1062,7 +1062,7 @@
 | 16 | mdok-style | 0.3050 |
 | 17 | DigiS-FBK | 0.2965 |
 | -- | POLAR Baseline | 0.2887 |
-| 18 | yunkuang0329 | 0.2699 |
+| 18 | CYUT | 0.2699 |
 | 19 | CUET-823 | 0.2668 |
 | 20 | PolarizedTeam | 0.2631 |
 | 21 | OZemi | 0.2597 |
@@ -1102,7 +1102,7 @@
 | 20 | NASIM LAB | 0.5049 |
 | 21 | MINDS | 0.4942 |
 | 22 | AIvengers | 0.4870 |
-| 23 | yunkuang0329 | 0.4717 |
+| 23 | CYUT | 0.4717 |
 | 24 | DigiS-FBK | 0.4459 |
 | -- | POLAR Baseline | 0.4078 |
 </details>
@@ -1126,7 +1126,7 @@
 | 10 | PolDeck | 0.4847 |
 | 11 | YNU-HPCC | 0.4812 |
 | 12 | PolarMind | 0.4802 |
-| 13 | yunkuang0329 | 0.4790 |
+| 13 | CYUT | 0.4790 |
 | 14 | MSqrd | 0.4734 |
 | 15 | ILA Polar | 0.4695 |
 | 16 | ShefFriday | 0.4660 |
@@ -1173,7 +1173,7 @@
 | 18 | UMUSP | 0.5518 |
 | 19 | UTokyo Tsuruoka Lab | 0.5464 |
 | 20 | mdok-style | 0.5250 |
-| 21 | yunkuang0329 | 0.5228 |
+| 21 | CYUT | 0.5228 |
 | -- | POLAR Baseline | 0.4626 |
 | 22 | ShefFriday | 0.4378 |
 </details>
@@ -1205,7 +1205,7 @@
 | -- | POLAR Baseline | 0.2038 |
 | 18 | mdok-style | 0.1689 |
 | 19 | ShefFriday | 0.1325 |
-| 20 | yunkuang0329 | 0.1312 |
+| 20 | CYUT | 0.1312 |
 | 21 | PolarizedTeam | 0.1289 |
 | 22 | VGU-M.Tech-AI | 0.0899 |
 </details>
@@ -1239,7 +1239,7 @@
 | 19 | VGU-M.Tech-AI | 0.7429 |
 | 20 | UMUSP | 0.7137 |
 | 21 | DigiS-FBK | 0.7128 |
-| 22 | yunkuang0329 | 0.7028 |
+| 22 | CYUT | 0.7028 |
 | 23 | PolAR Bears | 0.7008 |
 | 24 | ShefFriday | 0.5974 |
 | 25 | MINDS | 0.2987 |
@@ -1254,7 +1254,7 @@
 |---|---|---|
 | 1 | UTokyo Tsuruoka Lab | 0.5505 |
 | 2 | ShefFriday | 0.5375 |
-| 3 | yunkuang0329 | 0.4836 |
+| 3 | CYUT | 0.4836 |
 | 4 | MINDS | 0.4692 |
 | 5 | SMASH | 0.4667 |
 | -- | POLAR Baseline | 0.3759 |
@@ -1302,7 +1302,7 @@
 | 15 | PolarMind | 0.6140 |
 | 16 | UMUSP | 0.6085 |
 | 17 | Sagarmatha | 0.6014 |
-| 18 | yunkuang0329 | 0.5651 |
+| 18 | CYUT | 0.5651 |
 | 19 | OZemi | 0.5010 |
 | 20 | ShefFriday | 0.2719 |
 | 21 | VGU-M.Tech-AI | 0.2289 |
@@ -1336,7 +1336,7 @@
 | 19 | ShefFriday | 0.4780 |
 | -- | POLAR Baseline | 0.4772 |
 | 20 | VGU-M.Tech-AI | 0.4554 |
-| 21 | yunkuang0329 | 0.3998 |
+| 21 | CYUT | 0.3998 |
 </details>
 
 
@@ -1367,7 +1367,7 @@
 | 19 | ILA Polar | 0.7409 |
 | -- | POLAR Baseline | 0.7219 |
 | 20 | PolarizedTeam | 0.7180 |
-| 21 | yunkuang0329 | 0.6844 |
+| 21 | CYUT | 0.6844 |
 | 22 | ShefFriday | 0.6368 |
 | 23 | VGU-M.Tech-AI | 0.6127 |
 </details>
@@ -1401,7 +1401,7 @@
 | 19 | OZemi | 0.4503 |
 | 20 | PolarizedTeam | 0.4210 |
 | 21 | PolAR Bears | 0.3522 |
-| 22 | yunkuang0329 | 0.3493 |
+| 22 | CYUT | 0.3493 |
 | 23 | VGU-M.Tech-AI | 0.1293 |
 </details>
 
@@ -1426,7 +1426,7 @@
 | 13 | ShefFriday | 0.4237 |
 | 14 | YEZE | 0.4205 |
 | 15 | PolarizedTeam | 0.4171 |
-| 16 | yunkuang0329 | 0.4117 |
+| 16 | CYUT | 0.4117 |
 | 17 | DigiS-FBK | 0.3957 |
 | 18 | UMUSP | 0.3928 |
 | 19 | mdok-style | 0.3734 |
@@ -1457,7 +1457,7 @@
 | 14 | UMUSP | 0.5289 |
 | 15 | PolarMind | 0.5171 |
 | 16 | MSqrd | 0.5157 |
-| 17 | yunkuang0329 | 0.5061 |
+| 17 | CYUT | 0.5061 |
 | 18 | PolarizedTeam | 0.4962 |
 | 19 | OZemi | 0.4838 |
 | 20 | ILA Polar | 0.4721 |
@@ -1480,7 +1480,7 @@
 | 4 | UTokyo Tsuruoka Lab | 0.6166 |
 | 5 | Lingo Research Group | 0.6023 |
 | -- | POLAR Baseline | 0.5904 |
-| 6 | yunkuang0329 | 0.5903 |
+| 6 | CYUT | 0.5903 |
 | 7 | NASIM LAB | 0.5745 |
 | 8 | UMUSP | 0.5723 |
 | 9 | PolaFusion | 0.5653 |
@@ -1528,7 +1528,7 @@
 | 19 | PolarizedTeam | 0.6004 |
 | -- | POLAR Baseline | 0.5935 |
 | 20 | VGU-M.Tech-AI | 0.5556 |
-| 21 | yunkuang0329 | 0.5545 |
+| 21 | CYUT | 0.5545 |
 | 22 | ShefFriday | 0.5433 |
 | 23 | MINDS | 0.4723 |
 | 24 | wangkongqiang | 0.4647 |
@@ -1562,7 +1562,7 @@
 | 17 | mdok-style | 0.4226 |
 | 18 | YNU-HPCC | 0.4204 |
 | 19 | PolaFusion | 0.4114 |
-| 20 | yunkuang0329 | 0.3807 |
+| 20 | CYUT | 0.3807 |
 | 21 | VGU-M.Tech-AI | 0.3777 |
 | 22 | ShefFriday | 0.3007 |
 </details>
@@ -1595,7 +1595,7 @@
 | 18 | ShefFriday | 0.2832 |
 | 19 | VGU-M.Tech-AI | 0.2708 |
 | 20 | mdok-style | 0.2573 |
-| 21 | yunkuang0329 | 0.2503 |
+| 21 | CYUT | 0.2503 |
 | 22 | DigiS-FBK | 0.2297 |
 | 23 | PolAR Bears | 0.1299 |
 </details>
@@ -1617,7 +1617,7 @@
 | 8 | YNU-HPCC | 0.5929 |
 | 9 | ShefFriday | 0.5923 |
 | 10 | AIvengers | 0.5916 |
-| 11 | yunkuang0329 | 0.5875 |
+| 11 | CYUT | 0.5875 |
 | 12 | PolaFusion | 0.5861 |
 | 13 | mdok-style | 0.5692 |
 | 14 | PolarMind | 0.5688 |
@@ -1660,7 +1660,7 @@
 | 19 | DigiS-FBK | 0.7462 |
 | 20 | NASIM LAB | 0.7314 |
 | 21 | UPR | 0.7268 |
-| 22 | yunkuang0329 | 0.7183 |
+| 22 | CYUT | 0.7183 |
 | -- | POLAR Baseline | 0.7127 |
 | 23 | VGU-M.Tech-AI | 0.7073 |
 | 24 | ShefFriday | 0.4818 |
@@ -1677,7 +1677,7 @@
 | 1 | NYCU-NLP | 0.8436 |
 | 2 | UTokyo Tsuruoka Lab | 0.8350 |
 | 3 | Lingo Research Group | 0.8250 |
-| 4 | yunkuang0329 | 0.8245 |
+| 4 | CYUT | 0.8245 |
 | 5 | AlphaLyrae | 0.8244 |
 | 6 | mdok-style | 0.8199 |
 | 7 | SMASH | 0.8168 |
