@@ -1728,7 +1728,7 @@
 | 12 | ShefFriday | 0.4423 |
 | 13 | mdok-style | 0.4310 |
 | 14 | DigiS-FBK | 0.4086 |
-| 15 | suuii | 0.3677 |
+| 15 | CYUT | 0.3677 |
 </details>
 
 
@@ -1748,7 +1748,7 @@
 | 8 | ShefFriday | 0.5800 |
 | 9 | Sagarmatha | 0.5774 |
 | 10 | OZemi | 0.5736 |
-| 11 | suuii | 0.5594 |
+| 11 | CYUT | 0.5594 |
 | 12 | MSqrd | 0.5485 |
 | 13 | Lingo Research Group | 0.5329 |
 | 14 | mdok-style | 0.5157 |
@@ -1778,7 +1778,7 @@
 | 13 | PolAR Bears | 0.1570 |
 | 14 | abaruah | 0.1369 |
 | 15 | mdok-style | 0.1272 |
-| 16 | suuii | 0.1198 |
+| 16 | CYUT | 0.1198 |
 | 17 | DigiS-FBK | 0.1064 |
 | -- | POLAR Baseline | 0.0868 |
 </details>
@@ -1803,7 +1803,7 @@
 | 11 | Lingo Research Group | 0.4494 |
 | 12 | AIvengers | 0.4365 |
 | 13 | mdok-style | 0.4044 |
-| 14 | suuii | 0.4010 |
+| 14 | CYUT | 0.4010 |
 | 15 | DigiS-FBK | 0.3890 |
 | -- | POLAR Baseline | 0.3485 |
 </details>
@@ -1831,7 +1831,7 @@
 | 14 | DeepSemantics | 0.4638 |
 | 15 | DigiS-FBK | 0.4370 |
 | 16 | The Counterfactuals | 0.4279 |
-| 17 | suuii | 0.4222 |
+| 17 | CYUT | 0.4222 |
 | -- | POLAR Baseline | 0.4100 |
 | 18 | mdok-style | 0.3697 |
 </details>
@@ -1852,7 +1852,7 @@
 | 7 | YEZE | 0.4004 |
 | 8 | NYCU-NLP | 0.3996 |
 | 9 | MSqrd | 0.3885 |
-| 10 | suuii | 0.3742 |
+| 10 | CYUT | 0.3742 |
 | 11 | DigiS-FBK | 0.3719 |
 | 12 | UMUSP | 0.3476 |
 | 13 | Lingo Research Group | 0.3259 |
@@ -1881,7 +1881,7 @@
 | 10 | YEZE | 0.1221 |
 | 11 | pingan | 0.1188 |
 | 12 | Lingo Research Group | 0.1111 |
-| 13 | suuii | 0.0828 |
+| 13 | CYUT | 0.0828 |
 | 14 | ShefFriday | 0.0752 |
 | 15 | DigiS-FBK | 0.0454 |
 | 16 | mdok-style | 0.0000 |
@@ -1909,7 +1909,7 @@
 | 13 | MSqrd | 0.7181 |
 | 14 | UMUSP | 0.7109 |
 | 15 | ShefFriday | 0.6981 |
-| 16 | suuii | 0.6947 |
+| 16 | CYUT | 0.6947 |
 | 17 | abaruah | 0.6788 |
 | -- | POLAR Baseline | 0.2348 |
 </details>
@@ -1935,7 +1935,7 @@
 | 11 | DigiS-FBK | 0.3006 |
 | 12 | OZemi | 0.2635 |
 | 13 | mdok-style | 0.2482 |
-| 14 | suuii | 0.2248 |
+| 14 | CYUT | 0.2248 |
 | 15 | ShefFriday | 0.1260 |
 </details>
 
@@ -1961,7 +1961,7 @@
 | 13 | mdok-style | 0.5669 |
 | 14 | ShefFriday | 0.5524 |
 | 15 | UMUSP | 0.5351 |
-| 16 | suuii | 0.5122 |
+| 16 | CYUT | 0.5122 |
 | -- | POLAR Baseline | 0.1314 |
 </details>
 
@@ -1989,7 +1989,7 @@
 | 14 | abaruah | 0.1522 |
 | 15 | mdok-style | 0.1227 |
 | 16 | PolAR Bears | 0.1196 |
-| 17 | suuii | 0.0701 |
+| 17 | CYUT | 0.0701 |
 </details>
 
 
@@ -2010,7 +2010,7 @@
 | 9 | pingan | 0.4962 |
 | 10 | mdok-style | 0.4933 |
 | 11 | UMUSP | 0.4816 |
-| 12 | suuii | 0.4668 |
+| 12 | CYUT | 0.4668 |
 | 13 | DigiS-FBK | 0.4636 |
 | -- | POLAR Baseline | 0.4561 |
 | 14 | MSqrd | 0.4272 |
@@ -2040,7 +2040,7 @@
 | 12 | ShefFriday | 0.4456 |
 | 13 | DigiS-FBK | 0.4417 |
 | 14 | zhangpeng | 0.4366 |
-| 15 | suuii | 0.4307 |
+| 15 | CYUT | 0.4307 |
 | 16 | mdok-style | 0.3965 |
 | 17 | wangkongqiang | 0.3322 |
 </details>
@@ -2061,7 +2061,7 @@
 | 7 | PolaFusion | 0.5469 |
 | 8 | UMUSP | 0.5433 |
 | 9 | Sagarmatha | 0.5280 |
-| 10 | suuii | 0.5150 |
+| 10 | CYUT | 0.5150 |
 | 11 | DigiS-FBK | 0.4860 |
 | 12 | Lingo Research Group | 0.4844 |
 | 13 | MSqrd | 0.4742 |
@@ -2095,7 +2095,7 @@
 | 14 | ShefFriday | 0.2260 |
 | 15 | mdok-style | 0.2143 |
 | 16 | PolAR Bears | 0.2102 |
-| 17 | suuii | 0.1586 |
+| 17 | CYUT | 0.1586 |
 </details>
 
 
@@ -2117,7 +2117,7 @@
 | 9 | UMUSP | 0.4886 |
 | 10 | OZemi | 0.4662 |
 | 11 | Lingo Research Group | 0.4656 |
-| 12 | suuii | 0.4633 |
+| 12 | CYUT | 0.4633 |
 | 13 | MSqrd | 0.4599 |
 | 14 | DigiS-FBK | 0.4140 |
 | 15 | mdok-style | 0.4125 |
@@ -2143,7 +2143,7 @@
 | 11 | OZemi | 0.7835 |
 | 12 | DigiS-FBK | 0.7795 |
 | 13 | MSqrd | 0.7768 |
-| 14 | suuii | 0.7562 |
+| 14 | CYUT | 0.7562 |
 | 15 | ShefFriday | 0.7316 |
 | 16 | UPR | 0.7267 |
 | 17 | Lingo Research Group | 0.5606 |
@@ -2158,7 +2158,7 @@
 | rank | Username | score |
 |---|---|---|
 | 1 | NYCU-NLP | 0.7191 |
-| 2 | suuii | 0.7004 |
+| 2 | CYUT | 0.7004 |
 | 3 | SMASH | 0.6774 |
 | 4 | AlphaLyrae | 0.6670 |
 | 5 | Lingo Research Group | 0.6535 |
