@@ -237,7 +237,7 @@
 | 38 | DUTH | 0.7708 |
 | 39 | ILab-NLP | 0.7681 |
 | 40 | BITS, Pilani | 0.7664 |
-| 41 | knix123 | 0.7652 |
+| 41 | ServSocIA | 0.7652 |
 | 42 | OZemi | 0.7636 |
 | 43 | PolarizedTeam | 0.7458 |
 | 44 | ShefFriday | 0.7084 |
