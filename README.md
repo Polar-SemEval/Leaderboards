@@ -159,7 +159,7 @@
 | 4 | mdok-style | 0.7398 |
 | 5 | Projet Fil Rouge 821 | 0.7324 |
 | 6 | Lingo Research Group | 0.7322 |
-| 7 | danielkhir | 0.7317 |
+| 7 | PolDeck | 0.7317 |
 | 8 | PSK | 0.7282 |
 | 9 | Semantic Vectors | 0.7256 |
 | 10 | UMUSP | 0.7231 |
@@ -197,7 +197,7 @@
 | rank | Username | score |
 |---|---|---|
 | 1 | UTokyo Tsuruoka Lab | 0.8252 |
-| 2 | danielkhir | 0.8189 |
+| 2 | PolDeck | 0.8189 |
 | 3 | PSK | 0.8177 |
 | 4 | NYCU-NLP | 0.8172 |
 | 5 | UIT Polar | 0.8162 |
@@ -1088,7 +1088,7 @@
 | 6 | YEZE | 0.5733 |
 | 7 | PolaFusion | 0.5615 |
 | 8 | PolarMind | 0.5577 |
-| 9 | danielkhir | 0.5558 |
+| 9 | PolDeck | 0.5558 |
 | 10 | CoPol | 0.5528 |
 | 11 | Sagarmatha | 0.5514 |
 | 12 | MSqrd | 0.5497 |
@@ -1123,7 +1123,7 @@
 | 7 | Lingo Research Group | 0.5027 |
 | 8 | YEZE | 0.5026 |
 | 9 | SMASH | 0.4874 |
-| 10 | danielkhir | 0.4847 |
+| 10 | PolDeck | 0.4847 |
 | 11 | YNU-HPCC | 0.4812 |
 | 12 | PolarMind | 0.4802 |
 | 13 | yunkuang0329 | 0.4790 |
