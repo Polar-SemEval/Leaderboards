@@ -1718,7 +1718,7 @@
 | 3 | AIvengers | 0.5535 |
 | 4 | YEZE | 0.5457 |
 | 5 | PolaFusion | 0.5435 |
-| 6 | happynewyear | 0.5325 |
+| 6 | pingan | 0.5325 |
 | 7 | Sagarmatha | 0.5240 |
 | 8 | Lingo Research Group | 0.5190 |
 | 9 | OZemi | 0.5022 |
@@ -1741,7 +1741,7 @@
 | 1 | NYCU-NLP | 0.6456 |
 | 2 | SMASH | 0.6413 |
 | 3 | YEZE | 0.6097 |
-| 4 | happynewyear | 0.6028 |
+| 4 | pingan | 0.6028 |
 | 5 | PolaFusion | 0.6016 |
 | 6 | AIvengers | 0.5853 |
 | 7 | UMUSP | 0.5846 |
@@ -1764,7 +1764,7 @@
 | rank | Username | score |
 |---|---|---|
 | 1 | SMASH | 0.2805 |
-| 2 | happynewyear | 0.2554 |
+| 2 | pingan | 0.2554 |
 | 3 | PolaFusion | 0.2493 |
 | 4 | AIvengers | 0.2442 |
 | 5 | UMUSP | 0.2366 |
@@ -1795,7 +1795,7 @@
 | 3 | SMASH | 0.5126 |
 | 4 | Sagarmatha | 0.4978 |
 | 5 | UMUSP | 0.4950 |
-| 6 | happynewyear | 0.4938 |
+| 6 | pingan | 0.4938 |
 | 7 | YEZE | 0.4927 |
 | 8 | PolaFusion | 0.4902 |
 | 9 | MSqrd | 0.4552 |
@@ -1816,7 +1816,7 @@
 | rank | Username | score |
 |---|---|---|
 | 1 | Sagarmatha | 0.5105 |
-| 2 | happynewyear | 0.5071 |
+| 2 | pingan | 0.5071 |
 | 3 | SMASH | 0.5070 |
 | 4 | NYCU-NLP | 0.5010 |
 | 5 | YEZE | 0.5003 |
@@ -1848,7 +1848,7 @@
 | 3 | Sagarmatha | 0.4611 |
 | 4 | PolaFusion | 0.4578 |
 | 5 | AIvengers | 0.4437 |
-| 6 | happynewyear | 0.4249 |
+| 6 | pingan | 0.4249 |
 | 7 | YEZE | 0.4004 |
 | 8 | NYCU-NLP | 0.3996 |
 | 9 | MSqrd | 0.3885 |
@@ -1879,7 +1879,7 @@
 | 8 | UMUSP | 0.1430 |
 | 9 | MSqrd | 0.1327 |
 | 10 | YEZE | 0.1221 |
-| 11 | happynewyear | 0.1188 |
+| 11 | pingan | 0.1188 |
 | 12 | Lingo Research Group | 0.1111 |
 | 13 | suuii | 0.0828 |
 | 14 | ShefFriday | 0.0752 |
@@ -1904,7 +1904,7 @@
 | 8 | OZemi | 0.7356 |
 | 9 | DigiS-FBK | 0.7291 |
 | 10 | PolAR Bears | 0.7248 |
-| 11 | happynewyear | 0.7197 |
+| 11 | pingan | 0.7197 |
 | 12 | Lingo Research Group | 0.7186 |
 | 13 | MSqrd | 0.7181 |
 | 14 | UMUSP | 0.7109 |
@@ -1930,7 +1930,7 @@
 | 6 | UMUSP | 0.3430 |
 | 7 | Sagarmatha | 0.3369 |
 | 8 | NYCU-NLP | 0.3357 |
-| 9 | happynewyear | 0.3273 |
+| 9 | pingan | 0.3273 |
 | 10 | Lingo Research Group | 0.3136 |
 | 11 | DigiS-FBK | 0.3006 |
 | 12 | OZemi | 0.2635 |
@@ -1955,7 +1955,7 @@
 | 7 | OZemi | 0.6483 |
 | 8 | AIvengers | 0.6478 |
 | 9 | PolaFusion | 0.6446 |
-| 10 | happynewyear | 0.6293 |
+| 10 | pingan | 0.6293 |
 | 11 | abaruah | 0.6013 |
 | 12 | MSqrd | 0.5821 |
 | 13 | mdok-style | 0.5669 |
@@ -1974,7 +1974,7 @@
 |---|---|---|
 | -- | POLAR Baseline | 0.3841 |
 | 1 | SMASH | 0.3296 |
-| 2 | happynewyear | 0.3280 |
+| 2 | pingan | 0.3280 |
 | 3 | NYCU-NLP | 0.2973 |
 | 4 | PolaFusion | 0.2861 |
 | 5 | Sagarmatha | 0.2777 |
@@ -2007,7 +2007,7 @@
 | 6 | YEZE | 0.5037 |
 | 7 | PolaFusion | 0.5036 |
 | 8 | Lingo Research Group | 0.4972 |
-| 9 | happynewyear | 0.4962 |
+| 9 | pingan | 0.4962 |
 | 10 | mdok-style | 0.4933 |
 | 11 | UMUSP | 0.4816 |
 | 12 | suuii | 0.4668 |
@@ -2035,7 +2035,7 @@
 | 7 | AIvengers | 0.4825 |
 | 8 | UMUSP | 0.4794 |
 | 9 | Lingo Research Group | 0.4706 |
-| 10 | happynewyear | 0.4656 |
+| 10 | pingan | 0.4656 |
 | 11 | MSqrd | 0.4520 |
 | 12 | ShefFriday | 0.4456 |
 | 13 | DigiS-FBK | 0.4417 |
@@ -2065,7 +2065,7 @@
 | 11 | DigiS-FBK | 0.4860 |
 | 12 | Lingo Research Group | 0.4844 |
 | 13 | MSqrd | 0.4742 |
-| 14 | happynewyear | 0.4660 |
+| 14 | pingan | 0.4660 |
 | 15 | mdok-style | 0.4570 |
 | 16 | ShefFriday | 0.4243 |
 | -- | POLAR Baseline | 0.2205 |
@@ -2087,7 +2087,7 @@
 | 6 | NYCU-NLP | 0.3964 |
 | 7 | YEZE | 0.3783 |
 | 8 | OZemi | 0.3734 |
-| 9 | happynewyear | 0.3517 |
+| 9 | pingan | 0.3517 |
 | 10 | Lingo Research Group | 0.3451 |
 | 11 | MSqrd | 0.2906 |
 | 12 | abaruah | 0.2780 |
@@ -2107,7 +2107,7 @@
 |---|---|---|
 | -- | POLAR Baseline | 0.7693 |
 | 1 | NYCU-NLP | 0.5381 |
-| 2 | happynewyear | 0.5374 |
+| 2 | pingan | 0.5374 |
 | 3 | PolaFusion | 0.5151 |
 | 4 | SMASH | 0.5144 |
 | 5 | Sagarmatha | 0.5021 |
@@ -2136,7 +2136,7 @@
 | 4 | mdok-style | 0.8108 |
 | 5 | PolaFusion | 0.8075 |
 | 6 | UMUSP | 0.8024 |
-| 7 | happynewyear | 0.8022 |
+| 7 | pingan | 0.8022 |
 | 8 | AIvengers | 0.7997 |
 | 9 | abaruah | 0.7987 |
 | 10 | Sagarmatha | 0.7987 |
@@ -2163,7 +2163,7 @@
 | 4 | AlphaLyrae | 0.6670 |
 | 5 | Lingo Research Group | 0.6535 |
 | 6 | IReL_IIT(BHU) | 0.6484 |
-| 7 | happynewyear | 0.6453 |
+| 7 | pingan | 0.6453 |
 | 8 | AIvengers | 0.6398 |
 | 9 | PolaFusion | 0.6069 |
 | 10 | YEZE | 0.5675 |
